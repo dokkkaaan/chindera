@@ -1,0 +1,4 @@
+  207  mv hokkaido-otamoiA\ .html hokkaido-otamoiA.html
+  209  mv taiwan05stonetemple\ .html taiwan05stonetemple.html
+  211  mv hongkong3-Tseung\ Kwan\ O.html hongkong3-TseungKwanO.html
+

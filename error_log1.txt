@@ -1,0 +1,1443 @@
+[mimizu@MacBook-Air] ~/Documents/chindera% python cleanup.py                                                                             ~/Documents/chindera
+find ./ -type f grep fukuoka-hiraijinja xargs -I% mv % fukuoka-hiraijinja/.
+find ./ -type f grep fukuoka-kaeru xargs -I% mv % fukuoka-kaeru/.
+find ./ -type f grep fukuoka-kobureki xargs -I% mv % fukuoka-kobureki/.
+find ./ -type f grep fukuoka-mune xargs -I% mv % fukuoka-mune/.
+find ./ -type f grep fukuoka-noke xargs -I% mv % fukuoka-noke/.
+find ./ -type f grep fukuoka-onegai xargs -I% mv % fukuoka-onegai/.
+find ./ -type f grep fukuoka-onituka xargs -I% mv % fukuoka-onituka/.
+find ./ -type f grep fukuoka-ryukounotaki xargs -I% mv % fukuoka-ryukounotaki/.
+find ./ -type f grep fukuoka-sasaguri xargs -I% mv % fukuoka-sasaguri/.
+find ./ -type f grep fukuoka-sitirou xargs -I% mv % fukuoka-sitirou/.
+find ./ -type f grep fukuoka-uchioyakushi xargs -I% mv % fukuoka-uchioyakushi/.
+find ./ -type f grep fukuoka-yosizuka xargs -I% mv % fukuoka-yosizuka/.
+find ./ -type f grep fukuokadaibutu xargs -I% mv % fukuokadaibutu/.
+find ./ -type f grep fukushima-kazebukuro xargs -I% mv % fukushima-kazebukuro/.
+find ./ -type f grep fukushima-ohtake xargs -I% mv % fukushima-ohtake/.
+find ./ -type f grep fukushima-sakudari xargs -I% mv % fukushima-sakudari/.
+find ./ -type f grep fukushima-shounji xargs -I% mv % fukushima-shounji/.
+find ./ -type f grep funaoka xargs -I% mv % funaoka/.
+find ./ -type f grep fusimi xargs -I% mv % fusimi/.
+find ./ -type f grep futtu-iwaya xargs -I% mv % futtu-iwaya/.
+find ./ -type f grep gensoubou xargs -I% mv % gensoubou/.
+find ./ -type f grep giaclam xargs -I% mv % giaclam/.
+find ./ -type f grep gifu-hasama xargs -I% mv % gifu-hasama/.
+find ./ -type f grep gifu-hirayu xargs -I% mv % gifu-hirayu/.
+find ./ -type f grep gifu-kegonji xargs -I% mv % gifu-kegonji/.
+find ./ -type f grep gifu-mikubi xargs -I% mv % gifu-mikubi/.
+find ./ -type f grep gifu-nangu xargs -I% mv % gifu-nangu/.
+find ./ -type f grep gifu-otohime xargs -I% mv % gifu-otohime/.
+find ./ -type f grep gifu-otyobo xargs -I% mv % gifu-otyobo/.
+find ./ -type f grep gifu-sougenji xargs -I% mv % gifu-sougenji/.
+find ./ -type f grep gifu-taisi xargs -I% mv % gifu-taisi/.
+find ./ -type f grep gontaro xargs -I% mv % gontaro/.
+find ./ -type f grep gosikien xargs -I% mv % gosikien/.
+find ./ -type f grep gotou xargs -I% mv % gotou/.
+find ./ -type f grep gotou-doutoku xargs -I% mv % gotou-doutoku/.
+find ./ -type f grep gunma-daruma xargs -I% mv % gunma-daruma/.
+find ./ -type f grep gunma-fujitaki xargs -I% mv % gunma-fujitaki/.
+mv: rename .//gotou-doutoku02.jpg to gotou-doutoku/./gotou-doutoku02.jpg: No such file or directory
+mv: rename .//gotou-doutoku03.jpg to gotou-doutoku/./gotou-doutoku03.jpg: No such file or directory
+find ./ -type f grep gunma-koizumi xargs -I% mv % gunma-koizumi/.
+mv: rename .//gotou-doutoku01.jpg to gotou-doutoku/./gotou-doutoku01.jpg: No such file or directory
+mv: rename .//gotou-doutoku04.jpg to gotou-doutoku/./gotou-doutoku04.jpg: No such file or directory
+mv: rename .//gotou-doutoku05.jpg to gotou-doutoku/./gotou-doutoku05.jpg: No such file or directory
+mv: rename .//gotou-doutoku07.jpg to gotou-doutoku/./gotou-doutoku07.jpg: No such file or directory
+mv: rename .//gotou-doutoku06.jpg to gotou-doutoku/./gotou-doutoku06.jpg: No such file or directory
+find ./ -type f grep gunma-kontyuu xargs -I% mv % gunma-kontyuu/.
+find ./ -type f grep gunma-mizusawa xargs -I% mv % gunma-mizusawa/.
+find ./ -type f grep gunma-sironouchi xargs -I% mv % gunma-sironouchi/.
+find ./ -type f grep hakuba xargs -I% mv % hakuba/.
+find ./ -type f grep hanaguri xargs -I% mv % hanaguri/.
+find ./ -type f grep hanibe xargs -I% mv % hanibe/.
+find ./ -type f grep hebi xargs -I% mv % hebi/.
+find ./ -type f grep heiwa xargs -I% mv % heiwa/.
+find ./ -type f grep heiwadaikannon xargs -I% mv % heiwadaikannon/.
+find ./ -type f grep hidadaikannon xargs -I% mv % hidadaikannon/.
+mv: rename .//heiwadaikannon10.jpg to heiwadaikannon/./heiwadaikannon10.jpg: No such file or directory
+find ./ -type f grep hidakaiunnomori xargs -I% mv % hidakaiunnomori/.
+mv: rename .//heiwadaikannon04.jpg to heiwadaikannon/./heiwadaikannon04.jpg: No such file or directory
+find ./ -type f grep hinkoko xargs -I% mv % hinkoko/.
+mv: rename .//heiwadaikannon05.jpg to heiwa/./heiwadaikannon05.jpg: No such file or directory
+mv: rename .//heiwadaikannon11.jpg to heiwa/./heiwadaikannon11.jpg: No such file or directory
+mv: rename .//heiwadaikannon.html to heiwa/./heiwadaikannon.html: No such file or directory
+find ./ -type f grep hiroshima-abuto xargs -I% mv % hiroshima-abuto/.
+mv: rename .//heiwadaikannon07.jpg to heiwa/./heiwadaikannon07.jpg: No such file or directory
+mv: rename .//heiwadaikannon13.jpg to heiwa/./heiwadaikannon13.jpg: No such file or directory
+mv: rename .//heiwadaikannon12.jpg to heiwa/./heiwadaikannon12.jpg: No such file or directory
+mv: rename .//heiwadaikannon06.jpg to heiwa/./heiwadaikannon06.jpg: No such file or directory
+find ./ -type f grep hiroshima-anpukuji xargs -I% mv % hiroshima-anpukuji/.
+mv: rename .//heiwadaikannon02.jpg to heiwa/./heiwadaikannon02.jpg: No such file or directory
+mv: rename .//heiwadaikannon03.jpg to heiwa/./heiwadaikannon03.jpg: No such file or directory
+mv: rename .//heiwadaikannon15.jpg to heiwa/./heiwadaikannon15.jpg: No such file or directory
+mv: rename .//heiwadaikannon01.jpg to heiwa/./heiwadaikannon01.jpg: No such file or directory
+mv: rename .//heiwadaikannon14.jpg to heiwa/./heiwadaikannon14.jpg: No such file or directory
+find ./ -type f grep hiroshima-haka xargs -I% mv % hiroshima-haka/.
+mv: rename .//heiwadaikannon08.jpg to heiwa/./heiwadaikannon08.jpg: No such file or directory
+mv: rename .//heiwadaikannon09.jpg to heiwa/./heiwadaikannon09.jpg: No such file or directory
+find ./ -type f grep hirosima-kusado xargs -I% mv % hirosima-kusado/.
+find ./ -type f grep hirosima-ohkubo xargs -I% mv % hirosima-ohkubo/.
+find ./ -type f grep hirosima-ohsyajo xargs -I% mv % hirosima-ohsyajo/.
+mv: rename .//heiwadaikannon.gif to heiwa/./heiwadaikannon.gif: No such file or directory
+mv: rename .//heiwadaikannonicon.gif to heiwa/./heiwadaikannonicon.gif: No such file or directory
+find ./ -type f grep hitachi xargs -I% mv % hitachi/.
+find ./ -type f grep hokkaido-noboribetsu xargs -I% mv % hokkaido-noboribetsu/.
+find ./ -type f grep hokkaido-otamoi xargs -I% mv % hokkaido-otamoi/.
+find ./ -type f grep hokkaido-takino xargs -I% mv % hokkaido-takino/.
+find ./ -type f grep hokkaido-takinoÇa xargs -I% mv % hokkaido-takinoÇa/.
+find ./ -type f grep hokkaido-tokachi xargs -I% mv % hokkaido-tokachi/.
+find ./ -type f grep hokkaido-tomioka xargs -I% mv % hokkaido-tomioka/.
+find ./ -type f grep hongkong xargs -I% mv % hongkong/.
+find ./ -type f grep hongkong2 xargs -I% mv % hongkong2/.
+find ./ -type f grep hongkong3 xargs -I% mv % hongkong3/.
+find ./ -type f grep hoteidaibutu xargs -I% mv % hoteidaibutu/.
+find ./ -type f grep howparvilla xargs -I% mv % howparvilla/.
+find ./ -type f grep hyakutubo xargs -I% mv % hyakutubo/.
+find ./ -type f grep hyogo-kasai xargs -I% mv % hyogo-kasai/.
+find ./ -type f grep hyogo-kubijizo xargs -I% mv % hyogo-kubijizo/.
+mv: rename .//hongkong3-TseungKwanO01.jpg to hongkong3/./hongkong3-TseungKwanO01.jpg: No such file or directory
+find ./ -type f grep hyogo-mirokutera xargs -I% mv % hyogo-mirokutera/.
+mv: rename .//hongkong3-TseungKwanO15.jpg to hongkong3/./hongkong3-TseungKwanO15.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO29.jpg to hongkong3/./hongkong3-TseungKwanO29.jpg: No such file or directory
+find ./ -type f grep hyogo-muryojyuji xargs -I% mv % hyogo-muryojyuji/.
+mv: rename .//hongkong3-yuenyuen21.jpg to hongkong/./hongkong3-yuenyuen21.jpg: No such file or directory
+mv: rename .//hongkong2-ex28.jpg to hongkong/./hongkong2-ex28.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen09.jpg to hongkong/./hongkong3-yuenyuen09.jpg: No such file or directory
+mv: rename .//hongkong2-ex14.jpg to hongkong/./hongkong2-ex14.jpg: No such file or directory
+find ./ -type f grep hyogo-nagoyama xargs -I% mv % hyogo-nagoyama/.
+mv: rename .//hongkong2-manbutuji39.jpg to hongkong/./hongkong2-manbutuji39.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji05.jpg to hongkong/./hongkong2-manbutuji05.jpg: No such file or directory
+find ./ -type f grep hyogo-robot xargs -I% mv % hyogo-robot/.
+mv: rename .//hongkong3-WesternMonastery07.jpg to hongkong/./hongkong3-WesternMonastery07.jpg: No such file or directory
+mv: rename .//hongkong3-WesternMonastery13.jpg to hongkong/./hongkong3-WesternMonastery13.jpg: No such file or directory
+find ./ -type f grep ibaraki-daigo xargs -I% mv % ibaraki-daigo/.
+mv: rename .//hongkong2-manbutuji11.jpg to hongkong/./hongkong2-manbutuji11.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.14.jpg to hongkong/./hongkong3-villainhitting.14.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.15.jpg to hongkong/./hongkong3-villainhitting.15.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.01.jpg to hongkong/./hongkong3-villainhitting.01.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji2.html to hongkong/./hongkong2-manbutuji2.html: No such file or directory
+find ./ -type f grep ibaraki-hyakudo xargs -I% mv % ibaraki-hyakudo/.
+mv: rename .//hongkong3-WesternMonastery12.jpg to hongkong/./hongkong3-WesternMonastery12.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji10.jpg to hongkong/./hongkong2-manbutuji10.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji04.jpg to hongkong/./hongkong2-manbutuji04.jpg: No such file or directory
+find ./ -type f grep ibaraki-ichijoin xargs -I% mv % ibaraki-ichijoin/.
+mv: rename .//hongkong3-WesternMonastery06.jpg to hongkong/./hongkong3-WesternMonastery06.jpg: No such file or directory
+find ./ -type f grep ibaraki-narba xargs -I% mv % ibaraki-narba/.
+mv: rename .//hongkong2-manbutuji38.jpg to hongkong/./hongkong2-manbutuji38.jpg: No such file or directory
+find ./ -type f grep ibaraki-oosugi xargs -I% mv % ibaraki-oosugi/.
+mv: rename .//hongkong3-yuenyuen08.jpg to hongkong/./hongkong3-yuenyuen08.jpg: No such file or directory
+mv: rename .//hongkong2-ex15.jpg to hongkong/./hongkong2-ex15.jpg: No such file or directory
+mv: rename .//hongkong2-ex01.jpg to hongkong/./hongkong2-ex01.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen34.jpg to hongkong/./hongkong3-yuenyuen34.jpg: No such file or directory
+find ./ -type f grep ikitukidaikannon xargs -I% mv % ikitukidaikannon/.
+mv: rename .//hongkong2-ex29.jpg to hongkong/./hongkong2-ex29.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen20.jpg to hongkong/./hongkong3-yuenyuen20.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO28.jpg to hongkong/./hongkong3-TseungKwanO28.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO14.jpg to hongkong/./hongkong3-TseungKwanO14.jpg: No such file or directory
+find ./ -type f grep inunomiyanekonomiya xargs -I% mv % inunomiyanekonomiya/.
+mv: rename .//hongkong3-TseungKwanO16.jpg to hongkong/./hongkong3-TseungKwanO16.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO02.jpg to hongkong/./hongkong3-TseungKwanO02.jpg: No such file or directory
+find ./ -type f grep issinji xargs -I% mv % issinji/.
+mv: rename .//hongkong3-yuenyuen22.jpg to hongkong/./hongkong3-yuenyuen22.jpg: No such file or directory
+mv: rename .//hongkong2-ex17.jpg to hongkong/./hongkong2-ex17.jpg: No such file or directory
+find ./ -type f grep iwafune xargs -I% mv % iwafune/.
+mv: rename .//hongkong2-ex03.jpg to hongkong/./hongkong2-ex03.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji12.jpg to hongkong/./hongkong2-manbutuji12.jpg: No such file or directory
+mv: rename .//hongkong3-WesternMonastery10.jpg to hongkong/./hongkong3-WesternMonastery10.jpg: No such file or directory
+find ./ -type f grep iwate-kongo xargs -I% mv % iwate-kongo/.
+mv: rename .//hongkong3-WesternMonastery04.jpg to hongkong/./hongkong3-WesternMonastery04.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji06.jpg to hongkong/./hongkong2-manbutuji06.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.17.jpg to hongkong/./hongkong3-villainhitting.17.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.03.jpg to hongkong/./hongkong3-villainhitting.03.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.02.jpg to hongkong/./hongkong3-villainhitting.02.jpg: No such file or directory
+find ./ -type f grep iwayaji xargs -I% mv % iwayaji/.
+mv: rename .//hongkong3-villainhitting.16.jpg to hongkong/./hongkong3-villainhitting.16.jpg: No such file or directory
+mv: rename .//hongkong3-WesternMonastery05.jpg to hongkong/./hongkong3-WesternMonastery05.jpg: No such file or directory
+find ./ -type f grep izugokurakuen xargs -I% mv % izugokurakuen/.
+mv: rename .//hongkong2-manbutuji07.jpg to hongkong/./hongkong2-manbutuji07.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji13.jpg to hongkong/./hongkong2-manbutuji13.jpg: No such file or directory
+mv: rename .//hongkong3-WesternMonastery11.jpg to hongkong/./hongkong3-WesternMonastery11.jpg: No such file or directory
+mv: rename .//hongkong2-ex02.jpg to hongkong/./hongkong2-ex02.jpg: No such file or directory
+mv: rename .//hongkong2-ex16.jpg to hongkong/./hongkong2-ex16.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen23.jpg to hongkong/./hongkong3-yuenyuen23.jpg: No such file or directory
+find ./ -type f grep jibokannon xargs -I% mv % jibokannon/.
+mv: rename .//hongkong3-TseungKwanO03.jpg to hongkong/./hongkong3-TseungKwanO03.jpg: No such file or directory
+find ./ -type f grep jonenji xargs -I% mv % jonenji/.
+mv: rename .//hongkong3-TseungKwanO17.jpg to hongkong/./hongkong3-TseungKwanO17.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO13.jpg to hongkong/./hongkong3-TseungKwanO13.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO07.jpg to hongkong/./hongkong3-TseungKwanO07.jpg: No such file or directory
+find ./ -type f grep jyoetu-itayama xargs -I% mv % jyoetu-itayama/.
+mv: rename .//hongkong2-ex12.jpg to hongkong/./hongkong2-ex12.jpg: No such file or directory
+mv: rename .//hongkong2-ex06.jpg to hongkong/./hongkong2-ex06.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen33.jpg to hongkong/./hongkong3-yuenyuen33.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen27.jpg to hongkong/./hongkong3-yuenyuen27.jpg: No such file or directory
+find ./ -type f grep jyoetu-iwaya xargs -I% mv % jyoetu-iwaya/.
+mv: rename .//hongkong3-WesternMonastery15.jpg to hongkong/./hongkong3-WesternMonastery15.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji17.jpg to hongkong/./hongkong2-manbutuji17.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji03.jpg to hongkong/./hongkong2-manbutuji03.jpg: No such file or directory
+mv: rename .//hongkong3-WesternMonastery01.jpg to hongkong/./hongkong3-WesternMonastery01.jpg: No such file or directory
+find ./ -type f grep jyoetu-machida xargs -I% mv % jyoetu-machida/.
+mv: rename .//hongkong3-villainhitting.12.jpg to hongkong/./hongkong3-villainhitting.12.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.06.jpg to hongkong/./hongkong3-villainhitting.06.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.07.jpg to hongkong/./hongkong3-villainhitting.07.jpg: No such file or directory
+find ./ -type f grep jyoetu-nadachi-karita xargs -I% mv % jyoetu-nadachi-karita/.
+mv: rename .//hongkong3-villainhitting.13.jpg to hongkong/./hongkong3-villainhitting.13.jpg: No such file or directory
+find ./ -type f grep jyoetu-nikkoji xargs -I% mv % jyoetu-nikkoji/.
+mv: rename .//hongkong2-manbutuji02.jpg to hongkong/./hongkong2-manbutuji02.jpg: No such file or directory
+mv: rename .//hongkong3-WesternMonastery14.jpg to hongkong/./hongkong3-WesternMonastery14.jpg: No such file or directory
+find ./ -type f grep jyoetu-uragawara-karita xargs -I% mv % jyoetu-uragawara-karita/.
+mv: rename .//hongkong2-manbutuji16.jpg to hongkong/./hongkong2-manbutuji16.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen26.jpg to hongkong/./hongkong3-yuenyuen26.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen32.jpg to hongkong/./hongkong3-yuenyuen32.jpg: No such file or directory
+mv: rename .//hongkong2-ex07.jpg to hongkong/./hongkong2-ex07.jpg: No such file or directory
+find ./ -type f grep jyouetu xargs -I% mv % jyouetu/.
+mv: rename .//hongkong2-ex13.jpg to hongkong/./hongkong2-ex13.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO06.jpg to hongkong/./hongkong3-TseungKwanO06.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO12.jpg to hongkong/./hongkong3-TseungKwanO12.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO04.jpg to hongkong/./hongkong3-TseungKwanO04.jpg: No such file or directory
+find ./ -type f grep jyoufukuji xargs -I% mv % jyoufukuji/.
+mv: rename .//hongkong3-TseungKwanO10.jpg to hongkong/./hongkong3-TseungKwanO10.jpg: No such file or directory
+find ./ -type f grep kaganosato xargs -I% mv % kaganosato/.
+mv: rename .//hongkong3-yuenyuen18.jpg to hongkong/./hongkong3-yuenyuen18.jpg: No such file or directory
+mv: rename .//hongkong2-ex05.jpg to hongkong/./hongkong2-ex05.jpg: No such file or directory
+find ./ -type f grep kagawa-awasima xargs -I% mv % kagawa-awasima/.
+mv: rename .//hongkong2-ex11.jpg to hongkong/./hongkong2-ex11.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen24.jpg to hongkong/./hongkong3-yuenyuen24.jpg: No such file or directory
+mv: rename .//hongkong2-ex39.jpg to hongkong/./hongkong2-ex39.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen30.jpg to hongkong/./hongkong3-yuenyuen30.jpg: No such file or directory
+find ./ -type f grep kagawa-cave xargs -I% mv % kagawa-cave/.
+mv: rename .//hongkong3-WesternMonastery02.jpg to hongkong/./hongkong3-WesternMonastery02.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji00.jpg to hongkong/./hongkong2-manbutuji00.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji14.jpg to hongkong/./hongkong2-manbutuji14.jpg: No such file or directory
+mv: rename .//hongkong3-WesternMonastery16.jpg to hongkong/./hongkong3-WesternMonastery16.jpg: No such file or directory
+find ./ -type f grep kagawa-kanonji xargs -I% mv % kagawa-kanonji/.
+mv: rename .//hongkong2-manbutuji28.jpg to hongkong/./hongkong2-manbutuji28.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.05.jpg to hongkong/./hongkong3-villainhitting.05.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.11.jpg to hongkong/./hongkong3-villainhitting.11.jpg: No such file or directory
+find ./ -type f grep kagawa-kasima xargs -I% mv % kagawa-kasima/.
+mv: rename .//hongkong3-villainhitting.10.jpg to hongkong/./hongkong3-villainhitting.10.jpg: No such file or directory
+find ./ -type f grep kagawa-konpira xargs -I% mv % kagawa-konpira/.
+mv: rename .//hongkong3-villainhitting.04.jpg to hongkong/./hongkong3-villainhitting.04.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji29.jpg to hongkong/./hongkong2-manbutuji29.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji15.jpg to hongkong/./hongkong2-manbutuji15.jpg: No such file or directory
+mv: rename .//hongkong3-WesternMonastery17.jpg to hongkong/./hongkong3-WesternMonastery17.jpg: No such file or directory
+find ./ -type f grep kagawa-koyasu xargs -I% mv % kagawa-koyasu/.
+mv: rename .//hongkong3-WesternMonastery03.jpg to hongkong/./hongkong3-WesternMonastery03.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji01.jpg to hongkong/./hongkong2-manbutuji01.jpg: No such file or directory
+find ./ -type f grep kagawa-shodosimadaikannon xargs -I% mv % kagawa-shodosimadaikannon/.
+mv: rename .//hongkong3-yuenyuen31.jpg to hongkong/./hongkong3-yuenyuen31.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen25.jpg to hongkong/./hongkong3-yuenyuen25.jpg: No such file or directory
+mv: rename .//hongkong2-ex38.jpg to hongkong/./hongkong2-ex38.jpg: No such file or directory
+find ./ -type f grep kagawa-sisijima xargs -I% mv % kagawa-sisijima/.
+mv: rename .//hongkong2-ex10.jpg to hongkong/./hongkong2-ex10.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen19.jpg to hongkong/./hongkong3-yuenyuen19.jpg: No such file or directory
+mv: rename .//hongkong2-ex04.jpg to hongkong/./hongkong2-ex04.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO11.jpg to hongkong/./hongkong3-TseungKwanO11.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO05.jpg to hongkong/./hongkong3-TseungKwanO05.jpg: No such file or directory
+find ./ -type f grep kagosima-ganryuusin xargs -I% mv % kagosima-ganryuusin/.
+mv: rename .//hongkong3.html to hongkong/./hongkong3.html: No such file or directory
+mv: rename .//hongkong3-villainhitting.html to hongkong/./hongkong3-villainhitting.html: No such file or directory
+find ./ -type f grep kaisyo xargs -I% mv % kaisyo/.
+mv: rename .//hongkong2-jiunkaku39.jpg to hongkong/./hongkong2-jiunkaku39.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku11.jpg to hongkong/./hongkong2-jiunkaku11.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku05.jpg to hongkong/./hongkong2-jiunkaku05.jpg: No such file or directory
+mv: rename .//hongkong3-wishingtree08.jpg to hongkong/./hongkong3-wishingtree08.jpg: No such file or directory
+find ./ -type f grep kakuouzan xargs -I% mv % kakuouzan/.
+mv: rename .//hongkong2-lantau03.jpg to hongkong/./hongkong2-lantau03.jpg: No such file or directory
+mv: rename .//hongkong2-lantau17.jpg to hongkong/./hongkong2-lantau17.jpg: No such file or directory
+mv: rename .//hongkong2-lantau16.jpg to hongkong/./hongkong2-lantau16.jpg: No such file or directory
+find ./ -type f grep kamisinmei xargs -I% mv % kamisinmei/.
+mv: rename .//hongkong2-lantau02.jpg to hongkong/./hongkong2-lantau02.jpg: No such file or directory
+mv: rename .//hongkong2-ex.html to hongkong/./hongkong2-ex.html: No such file or directory
+find ./ -type f grep kamogawasainokawara xargs -I% mv % kamogawasainokawara/.
+mv: rename .//hongkong2-jiunkaku04.jpg to hongkong/./hongkong2-jiunkaku04.jpg: No such file or directory
+find ./ -type f grep kanagawa-dondo xargs -I% mv % kanagawa-dondo/.
+mv: rename .//hongkong2-jiunkaku10.jpg to hongkong/./hongkong2-jiunkaku10.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku38.jpg to hongkong/./hongkong2-jiunkaku38.jpg: No such file or directory
+mv: rename .//hongkong2-lantau.html to hongkong/./hongkong2-lantau.html: No such file or directory
+mv: rename .//hongkong2-jiunkaku2.html to hongkong/./hongkong2-jiunkaku2.html: No such file or directory
+find ./ -type f grep kanagawa-kasamori xargs -I% mv % kanagawa-kasamori/.
+mv: rename .//hongkong2-jiunkaku06.jpg to hongkong/./hongkong2-jiunkaku06.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku12.jpg to hongkong/./hongkong2-jiunkaku12.jpg: No such file or directory
+mv: rename .//hongkong2-lantau14.jpg to hongkong/./hongkong2-lantau14.jpg: No such file or directory
+find ./ -type f grep kanagawa-saijoji xargs -I% mv % kanagawa-saijoji/.
+mv: rename .//hongkong2-lantau01.jpg to hongkong/./hongkong2-lantau01.jpg: No such file or directory
+find ./ -type f grep kasyouzan xargs -I% mv % kasyouzan/.
+mv: rename .//hongkong2-lantau15.jpg to hongkong/./hongkong2-lantau15.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku13.jpg to hongkong/./hongkong2-jiunkaku13.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku07.jpg to hongkong/./hongkong2-jiunkaku07.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji48.jpg to hongkong/./hongkong2-manbutuji48.jpg: No such file or directory
+find ./ -type f grep kazafuki xargs -I% mv % kazafuki/.
+mv: rename .//hongkong2-jiunkaku03.jpg to hongkong/./hongkong2-jiunkaku03.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku17.jpg to hongkong/./hongkong2-jiunkaku17.jpg: No such file or directory
+find ./ -type f grep kesyoujizou xargs -I% mv % kesyoujizou/.
+mv: rename .//hongkong2-lantau11.jpg to hongkong/./hongkong2-lantau11.jpg: No such file or directory
+mv: rename .//hongkong2-lantau05.jpg to hongkong/./hongkong2-lantau05.jpg: No such file or directory
+mv: rename .//hongkong2-lantau04.jpg to hongkong/./hongkong2-lantau04.jpg: No such file or directory
+find ./ -type f grep khankyidaungpagoda xargs -I% mv % khankyidaungpagoda/.
+mv: rename .//hongkong2-lantau10.jpg to hongkong/./hongkong2-lantau10.jpg: No such file or directory
+find ./ -type f grep kibitu xargs -I% mv % kibitu/.
+mv: rename .//hongkong2-jiunkaku16.jpg to hongkong/./hongkong2-jiunkaku16.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku02.jpg to hongkong/./hongkong2-jiunkaku02.jpg: No such file or directory
+find ./ -type f grep kihouin xargs -I% mv % kihouin/.
+mv: rename .//hongkong2-manbutuji49.jpg to hongkong/./hongkong2-manbutuji49.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku14.jpg to hongkong/./hongkong2-jiunkaku14.jpg: No such file or directory
+find ./ -type f grep kinnryuudaibutu xargs -I% mv % kinnryuudaibutu/.
+mv: rename .//hongkong2-jiunkaku28.jpg to hongkong/./hongkong2-jiunkaku28.jpg: No such file or directory
+mv: rename .//hongkong3-wishingtree19.jpg to hongkong/./hongkong3-wishingtree19.jpg: No such file or directory
+mv: rename .//hongkong2-lantau06.jpg to hongkong/./hongkong2-lantau06.jpg: No such file or directory
+find ./ -type f grep kitanomiyako xargs -I% mv % kitanomiyako/.
+mv: rename .//hongkong3-villainhitting.24.gif to hongkong/./hongkong3-villainhitting.24.gif: No such file or directory
+mv: rename .//hongkong2-lantau12.jpg to hongkong/./hongkong2-lantau12.jpg: No such file or directory
+mv: rename .//hongkong2-lantau13.jpg to hongkong/./hongkong2-lantau13.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.25.gif to hongkong/./hongkong3-villainhitting.25.gif: No such file or directory
+find ./ -type f grep kobi xargs -I% mv % kobi/.
+mv: rename .//hongkong2-lantau07.jpg to hongkong/./hongkong2-lantau07.jpg: No such file or directory
+mv: rename .//hongkong3-wishingtree18.jpg to hongkong/./hongkong3-wishingtree18.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku29.jpg to hongkong/./hongkong2-jiunkaku29.jpg: No such file or directory
+find ./ -type f grep kochi-enkiridera xargs -I% mv % kochi-enkiridera/.
+mv: rename .//hongkong2-jiunkaku01.jpg to hongkong/./hongkong2-jiunkaku01.jpg: No such file or directory
+find ./ -type f grep kochi-murotodaishi xargs -I% mv % kochi-murotodaishi/.
+mv: rename .//hongkong2-jiunkaku15.jpg to hongkong/./hongkong2-jiunkaku15.jpg: No such file or directory
+mv: rename .//hongkong2.html to hongkong/./hongkong2.html: No such file or directory
+mv: rename .//hongkong2-ex42.jpg to hongkong/./hongkong2-ex42.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji47.jpg to hongkong/./hongkong2-manbutuji47.jpg: No such file or directory
+find ./ -type f grep kodama-sazae xargs -I% mv % kodama-sazae/.
+mv: rename .//hongkong3icon.jpg to hongkong/./hongkong3icon.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku18.jpg to hongkong/./hongkong2-jiunkaku18.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku30.jpg to hongkong/./hongkong2-jiunkaku30.jpg: No such file or directory
+find ./ -type f grep komaki xargs -I% mv % komaki/.
+mv: rename .//hongkong2-jiunkaku24.jpg to hongkong/./hongkong2-jiunkaku24.jpg: No such file or directory
+mv: rename .//hongkong3-wishingtree01.jpg to hongkong/./hongkong3-wishingtree01.jpg: No such file or directory
+find ./ -type f grep konkuri xargs -I% mv % konkuri/.
+mv: rename .//hongkong3-wishingtree15.jpg to hongkong/./hongkong3-wishingtree15.jpg: No such file or directory
+find ./ -type f grep konzoji xargs -I% mv % konzoji/.
+mv: rename .//hongkong3-wishingtree14.jpg to hongkong/./hongkong3-wishingtree14.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku25.jpg to hongkong/./hongkong2-jiunkaku25.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku31.jpg to hongkong/./hongkong2-jiunkaku31.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku19.jpg to hongkong/./hongkong2-jiunkaku19.jpg: No such file or directory
+find ./ -type f grep kosanji xargs -I% mv % kosanji/.
+mv: rename .//hongkong2-manbutuji46.jpg to hongkong/./hongkong2-manbutuji46.jpg: No such file or directory
+mv: rename .//hongkong2-ex43.jpg to hongkong/./hongkong2-ex43.jpg: No such file or directory
+mv: rename .//hongkong2-ex41.jpg to hongkong/./hongkong2-ex41.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji50.jpg to hongkong/./hongkong2-manbutuji50.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji44.jpg to hongkong/./hongkong2-manbutuji44.jpg: No such file or directory
+find ./ -type f grep koubou xargs -I% mv % koubou/.
+mv: rename .//hongkong2-jiunkaku27.jpg to hongkong/./hongkong2-jiunkaku27.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku33.jpg to hongkong/./hongkong2-jiunkaku33.jpg: No such file or directory
+mv: rename .//hongkong3-wishingtree16.jpg to hongkong/./hongkong3-wishingtree16.jpg: No such file or directory
+mv: rename .//hongkong3-wishingtree02.jpg to hongkong/./hongkong3-wishingtree02.jpg: No such file or directory
+mv: rename .//hongkong2-lantau09.jpg to hongkong/./hongkong2-lantau09.jpg: No such file or directory
+mv: rename .//hongkong2-lantau21.jpg to hongkong/./hongkong2-lantau21.jpg: No such file or directory
+find ./ -type f grep kouyasan xargs -I% mv % kouyasan/.
+mv: rename .//hongkong2-lantau20.jpg to hongkong/./hongkong2-lantau20.jpg: No such file or directory
+mv: rename .//hongkong2-lantau08.jpg to hongkong/./hongkong2-lantau08.jpg: No such file or directory
+mv: rename .//hongkong3-wishingtree03.jpg to hongkong/./hongkong3-wishingtree03.jpg: No such file or directory
+mv: rename .//hongkong3-wishingtree17.jpg to hongkong/./hongkong3-wishingtree17.jpg: No such file or directory
+find ./ -type f grep kudoji xargs -I% mv % kudoji/.
+mv: rename .//hongkong2-jiunkaku32.jpg to hongkong/./hongkong2-jiunkaku32.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku26.jpg to hongkong/./hongkong2-jiunkaku26.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji45.jpg to hongkong/./hongkong2-manbutuji45.jpg: No such file or directory
+find ./ -type f grep kudokuin xargs -I% mv % kudokuin/.
+mv: rename .//hongkong2-manbutuji51.jpg to hongkong/./hongkong2-manbutuji51.jpg: No such file or directory
+find ./ -type f grep kumamoto-aira xargs -I% mv % kumamoto-aira/.
+mv: rename .//hongkong2-ex40.jpg to hongkong/./hongkong2-ex40.jpg: No such file or directory
+mv: rename .//hongkong3-wishingtree.html to hongkong/./hongkong3-wishingtree.html: No such file or directory
+mv: rename .//hongkong2-ex44.jpg to hongkong/./hongkong2-ex44.jpg: No such file or directory
+find ./ -type f grep kumamoto-araokannon xargs -I% mv % kumamoto-araokannon/.
+mv: rename .//hongkong2-manbutuji41.jpg to hongkong/./hongkong2-manbutuji41.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku22.jpg to hongkong/./hongkong2-jiunkaku22.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku36.jpg to hongkong/./hongkong2-jiunkaku36.jpg: No such file or directory
+find ./ -type f grep kumamoto-asite xargs -I% mv % kumamoto-asite/.
+mv: rename .//hongkong3-wishingtree13.jpg to hongkong/./hongkong3-wishingtree13.jpg: No such file or directory
+mv: rename .//hongkong3-wishingtree07.jpg to hongkong/./hongkong3-wishingtree07.jpg: No such file or directory
+mv: rename .//hongkong2-lantau18.jpg to hongkong/./hongkong2-lantau18.jpg: No such file or directory
+mv: rename .//hongkong2-lantau19.jpg to hongkong/./hongkong2-lantau19.jpg: No such file or directory
+find ./ -type f grep kumamoto-awasima xargs -I% mv % kumamoto-awasima/.
+mv: rename .//hongkong3-wishingtree06.jpg to hongkong/./hongkong3-wishingtree06.jpg: No such file or directory
+mv: rename .//hongkong3-wishingtree12.jpg to hongkong/./hongkong3-wishingtree12.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku37.jpg to hongkong/./hongkong2-jiunkaku37.jpg: No such file or directory
+find ./ -type f grep kumamoto-hogihogi xargs -I% mv % kumamoto-hogihogi/.
+mv: rename .//hongkong2-jiunkaku23.jpg to hongkong/./hongkong2-jiunkaku23.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji40.jpg to hongkong/./hongkong2-manbutuji40.jpg: No such file or directory
+mv: rename .//hongkong2-ex45.jpg to hongkong/./hongkong2-ex45.jpg: No such file or directory
+mv: rename .//hongkong2icon.jpg to hongkong/./hongkong2icon.jpg: No such file or directory
+find ./ -type f grep kumamoto-simizudaki xargs -I% mv % kumamoto-simizudaki/.
+mv: rename .//hongkong2-ex47.jpg to hongkong/./hongkong2-ex47.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji42.jpg to hongkong/./hongkong2-manbutuji42.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku35.jpg to hongkong/./hongkong2-jiunkaku35.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku21.jpg to hongkong/./hongkong2-jiunkaku21.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku09.jpg to hongkong/./hongkong2-jiunkaku09.jpg: No such file or directory
+find ./ -type f grep kumamoto-yuge xargs -I% mv % kumamoto-yuge/.
+mv: rename .//hongkong3-wishingtree04.jpg to hongkong/./hongkong3-wishingtree04.jpg: No such file or directory
+mv: rename .//hongkong3-wishingtree11.jpg to hongkong/./hongkong3-wishingtree11.jpg: No such file or directory
+mv: rename .//hongkong3-wishingtree05.jpg to hongkong/./hongkong3-wishingtree05.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku08.jpg to hongkong/./hongkong2-jiunkaku08.jpg: No such file or directory
+find ./ -type f grep kurumenaritasan xargs -I% mv % kurumenaritasan/.
+mv: rename .//hongkong2-jiunkaku20.jpg to hongkong/./hongkong2-jiunkaku20.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku34.jpg to hongkong/./hongkong2-jiunkaku34.jpg: No such file or directory
+find ./ -type f grep kyoto-fudosyoe xargs -I% mv % kyoto-fudosyoe/.
+mv: rename .//hongkong2-jiunkaku1.html to hongkong/./hongkong2-jiunkaku1.html: No such file or directory
+mv: rename .//hongkong2-manbutuji43.jpg to hongkong/./hongkong2-manbutuji43.jpg: No such file or directory
+mv: rename .//hongkong2-ex46.jpg to hongkong/./hongkong2-ex46.jpg: No such file or directory
+find ./ -type f grep kyoto-fushimi xargs -I% mv % kyoto-fushimi/.
+mv: rename .//hongkong3-TseungKwanO20.jpg to hongkong/./hongkong3-TseungKwanO20.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO08.jpg to hongkong/./hongkong3-TseungKwanO08.jpg: No such file or directory
+find ./ -type f grep kyoto-selfkannon xargs -I% mv % kyoto-selfkannon/.
+mv: rename .//hongkong3-yuenyuen14.jpg to hongkong/./hongkong3-yuenyuen14.jpg: No such file or directory
+mv: rename .//hongkong2-ex09.jpg to hongkong/./hongkong2-ex09.jpg: No such file or directory
+find ./ -type f grep kyoto-yasakakosin xargs -I% mv % kyoto-yasakakosin/.
+mv: rename .//hongkong2-ex21.jpg to hongkong/./hongkong2-ex21.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen28.jpg to hongkong/./hongkong3-yuenyuen28.jpg: No such file or directory
+mv: rename .//hongkong2-ex35.jpg to hongkong/./hongkong2-ex35.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji18.jpg to hongkong/./hongkong2-manbutuji18.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji24.jpg to hongkong/./hongkong2-manbutuji24.jpg: No such file or directory
+find ./ -type f grep kyoto-zezu xargs -I% mv % kyoto-zezu/.
+mv: rename .//hongkong2-manbutuji30.jpg to hongkong/./hongkong2-manbutuji30.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.09.jpg to hongkong/./hongkong3-villainhitting.09.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.21.jpg to hongkong/./hongkong3-villainhitting.21.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku47.jpg to hongkong/./hongkong2-jiunkaku47.jpg: No such file or directory
+mv: rename .//hongkong3-06.jpg to hongkong/./hongkong3-06.jpg: No such file or directory
+mv: rename .//hongkong3-07.jpg to hongkong/./hongkong3-07.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku46.jpg to hongkong/./hongkong2-jiunkaku46.jpg: No such file or directory
+find ./ -type f grep kyusenji xargs -I% mv % kyusenji/.
+mv: rename .//hongkong3-villainhitting.20.jpg to hongkong/./hongkong3-villainhitting.20.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.08.jpg to hongkong/./hongkong3-villainhitting.08.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen.html to hongkong/./hongkong3-yuenyuen.html: No such file or directory
+find ./ -type f grep loversrock xargs -I% mv % loversrock/.
+mv: rename .//hongkong2-manbutuji31.jpg to hongkong/./hongkong2-manbutuji31.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji25.jpg to hongkong/./hongkong2-manbutuji25.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji19.jpg to hongkong/./hongkong2-manbutuji19.jpg: No such file or directory
+find ./ -type f grep luanpu xargs -I% mv % luanpu/.
+mv: rename .//hongkong3-WesternMonastery.html to hongkong/./hongkong3-WesternMonastery.html: No such file or directory
+mv: rename .//hongkong3-yuenyuen29.jpg to hongkong/./hongkong3-yuenyuen29.jpg: No such file or directory
+mv: rename .//hongkong2-ex34.jpg to hongkong/./hongkong2-ex34.jpg: No such file or directory
+find ./ -type f grep mahawizarapagoda xargs -I% mv % mahawizarapagoda/.
+mv: rename .//hongkong2-ex20.jpg to hongkong/./hongkong2-ex20.jpg: No such file or directory
+mv: rename .//hongkong2-ex08.jpg to hongkong/./hongkong2-ex08.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen01.jpg to hongkong/./hongkong3-yuenyuen01.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO09.jpg to hongkong/./hongkong3-TseungKwanO09.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO35.jpg to hongkong/./hongkong3-TseungKwanO35.jpg: No such file or directory
+find ./ -type f grep mahdou xargs -I% mv % mahdou/.
+mv: rename .//hongkong3-TseungKwanO21.jpg to hongkong/./hongkong3-TseungKwanO21.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO.html to hongkong/./hongkong3-TseungKwanO.html: No such file or directory
+mv: rename .//hongkong3-TseungKwanO23.jpg to hongkong/./hongkong3-TseungKwanO23.jpg: No such file or directory
+find ./ -type f grep maimaizu xargs -I% mv % maimaizu/.
+mv: rename .//hongkong3-yuenyuen17.jpg to hongkong/./hongkong3-yuenyuen17.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen03.jpg to hongkong/./hongkong3-yuenyuen03.jpg: No such file or directory
+find ./ -type f grep malay-BatuMaung xargs -I% mv % malay-BatuMaung/.
+mv: rename .//hongkong2-ex36.jpg to hongkong/./hongkong2-ex36.jpg: No such file or directory
+mv: rename .//hongkong2-ex22.jpg to hongkong/./hongkong2-ex22.jpg: No such file or directory
+mv: rename .//hongkong3-WesternMonastery19.jpg to hongkong/./hongkong3-WesternMonastery19.jpg: No such file or directory
+find ./ -type f grep malay-KekLokSi xargs -I% mv % malay-KekLokSi/.
+mv: rename .//hongkong2-manbutuji33.jpg to hongkong/./hongkong2-manbutuji33.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji27.jpg to hongkong/./hongkong2-manbutuji27.jpg: No such file or directory
+find ./ -type f grep malay-batucave xargs -I% mv % malay-batucave/.
+mv: rename .//hongkong2-jiunkaku44.jpg to hongkong/./hongkong2-jiunkaku44.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.22.jpg to hongkong/./hongkong3-villainhitting.22.jpg: No such file or directory
+mv: rename .//hongkong3-05.jpg to hongkong/./hongkong3-05.jpg: No such file or directory
+find ./ -type f grep malay-burumesetemple xargs -I% mv % malay-burumesetemple/.
+mv: rename .//hongkong3-04.jpg to hongkong/./hongkong3-04.jpg: No such file or directory
+mv: rename .//hongkong3-villainhitting.23.jpg to hongkong/./hongkong3-villainhitting.23.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku45.jpg to hongkong/./hongkong2-jiunkaku45.jpg: No such file or directory
+find ./ -type f grep malay-thaitemple xargs -I% mv % malay-thaitemple/.
+mv: rename .//hongkong2-manbutuji26.jpg to hongkong/./hongkong2-manbutuji26.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji32.jpg to hongkong/./hongkong2-manbutuji32.jpg: No such file or directory
+mv: rename .//hongkong3-WesternMonastery18.jpg to hongkong/./hongkong3-WesternMonastery18.jpg: No such file or directory
+mv: rename .//hongkong2-ex23.jpg to hongkong/./hongkong2-ex23.jpg: No such file or directory
+find ./ -type f grep malay2-BukitCina xargs -I% mv % malay2-BukitCina/.
+mv: rename .//hongkong2-ex37.jpg to hongkong/./hongkong2-ex37.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen02.jpg to hongkong/./hongkong3-yuenyuen02.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen16.jpg to hongkong/./hongkong3-yuenyuen16.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO22.jpg to hongkong/./hongkong3-TseungKwanO22.jpg: No such file or directory
+find ./ -type f grep malay2-ChengHoongTeng xargs -I% mv % malay2-ChengHoongTeng/.
+mv: rename .//hongkong3-TseungKwanO32.jpg to hongkong/./hongkong3-TseungKwanO32.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO26.jpg to hongkong/./hongkong3-TseungKwanO26.jpg: No such file or directory
+mv: rename .//hongkong2-ex33.jpg to hongkong/./hongkong2-ex33.jpg: No such file or directory
+mv: rename .//hongkong2-ex27.jpg to hongkong/./hongkong2-ex27.jpg: No such file or directory
+find ./ -type f grep malay2-ChinSweeCavesTemple xargs -I% mv % malay2-ChinSweeCavesTemple/.
+mv: rename .//hongkong3-yuenyuen12.jpg to hongkong/./hongkong3-yuenyuen12.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen06.jpg to hongkong/./hongkong3-yuenyuen06.jpg: No such file or directory
+find ./ -type f grep malay2-HuaSengKengTemple xargs -I% mv % malay2-HuaSengKengTemple/.
+mv: rename .//hongkong2-manbutuji36.jpg to hongkong/./hongkong2-manbutuji36.jpg: No such file or directory
+find ./ -type f grep malay2-LingSenTong xargs -I% mv % malay2-LingSenTong/.
+mv: rename .//hongkong3-WesternMonastery20.jpg to hongkong/./hongkong3-WesternMonastery20.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji22.jpg to hongkong/./hongkong2-manbutuji22.jpg: No such file or directory
+find ./ -type f grep malay2-NamTheanTong xargs -I% mv % malay2-NamTheanTong/.
+mv: rename .//hongkong3-WesternMonastery08.jpg to hongkong/./hongkong3-WesternMonastery08.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku41.jpg to hongkong/./hongkong2-jiunkaku41.jpg: No such file or directory
+mv: rename .//hongkong3-01.jpg to hongkong/./hongkong3-01.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku40.jpg to hongkong/./hongkong2-jiunkaku40.jpg: No such file or directory
+mv: rename .//hongkong3-WesternMonastery09.jpg to hongkong/./hongkong3-WesternMonastery09.jpg: No such file or directory
+find ./ -type f grep malay2-SanPohTong xargs -I% mv % malay2-SanPohTong/.
+mv: rename .//hongkong2-manbutuji23.jpg to hongkong/./hongkong2-manbutuji23.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji37.jpg to hongkong/./hongkong2-manbutuji37.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen07.jpg to hongkong/./hongkong3-yuenyuen07.jpg: No such file or directory
+find ./ -type f grep malay2-TibetianTemple xargs -I% mv % malay2-TibetianTemple/.
+mv: rename .//hongkong3-yuenyuen13.jpg to hongkong/./hongkong3-yuenyuen13.jpg: No such file or directory
+mv: rename .//hongkong2-ex26.jpg to hongkong/./hongkong2-ex26.jpg: No such file or directory
+find ./ -type f grep malay2-WatMekPrasit xargs -I% mv % malay2-WatMekPrasit/.
+mv: rename .//hongkong2-ex32.jpg to hongkong/./hongkong2-ex32.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO27.jpg to hongkong/./hongkong3-TseungKwanO27.jpg: No such file or directory
+find ./ -type f grep malay2-omake xargs -I% mv % malay2-omake/.
+mv: rename .//hongkong3-TseungKwanO33.jpg to hongkong/./hongkong3-TseungKwanO33.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO19.jpg to hongkong/./hongkong3-TseungKwanO19.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO25.jpg to hongkong/./hongkong3-TseungKwanO25.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO31.jpg to hongkong/./hongkong3-TseungKwanO31.jpg: No such file or directory
+find ./ -type f grep manfattsz xargs -I% mv % manfattsz/.
+mv: rename .//hongkong2-ex24.jpg to hongkong/./hongkong2-ex24.jpg: No such file or directory
+mv: rename .//hongkong2-ex30.jpg to hongkong/./hongkong2-ex30.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen05.jpg to hongkong/./hongkong3-yuenyuen05.jpg: No such file or directory
+find ./ -type f grep manganji xargs -I% mv % manganji/.
+mv: rename .//hongkong2-ex18.jpg to hongkong/./hongkong2-ex18.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen11.jpg to hongkong/./hongkong3-yuenyuen11.jpg: No such file or directory
+find ./ -type f grep manpukuji xargs -I% mv % manpukuji/.
+mv: rename .//hongkong2-manbutuji21.jpg to hongkong/./hongkong2-manbutuji21.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji35.jpg to hongkong/./hongkong2-manbutuji35.jpg: No such file or directory
+find ./ -type f grep mantaijiozouen xargs -I% mv % mantaijiozouen/.
+mv: rename .//hongkong2-manbutuji09.jpg to hongkong/./hongkong2-manbutuji09.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku42.jpg to hongkong/./hongkong2-jiunkaku42.jpg: No such file or directory
+find ./ -type f grep mantaijizouen xargs -I% mv % mantaijizouen/.
+mv: rename .//hongkong3-villainhitting.18.jpg to hongkong/./hongkong3-villainhitting.18.jpg: No such file or directory
+mv: rename .//hongkong3-03.jpg to hongkong/./hongkong3-03.jpg: No such file or directory
+mv: rename .//hongkong3-02.jpg to hongkong/./hongkong3-02.jpg: No such file or directory
+find ./ -type f grep matuzonokannon xargs -I% mv % matuzonokannon/.
+mv: rename .//hongkong2-manbutuji1.html to hongkong/./hongkong2-manbutuji1.html: No such file or directory
+mv: rename .//hongkong3-villainhitting.19.jpg to hongkong/./hongkong3-villainhitting.19.jpg: No such file or directory
+mv: rename .//hongkong2-jiunkaku43.jpg to hongkong/./hongkong2-jiunkaku43.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji08.jpg to hongkong/./hongkong2-manbutuji08.jpg: No such file or directory
+find ./ -type f grep minakami xargs -I% mv % minakami/.
+mv: rename .//hongkong2-manbutuji34.jpg to hongkong/./hongkong2-manbutuji34.jpg: No such file or directory
+mv: rename .//hongkong2-manbutuji20.jpg to hongkong/./hongkong2-manbutuji20.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen10.jpg to hongkong/./hongkong3-yuenyuen10.jpg: No such file or directory
+mv: rename .//hongkong3-yuenyuen04.jpg to hongkong/./hongkong3-yuenyuen04.jpg: No such file or directory
+mv: rename .//hongkong2-ex19.jpg to hongkong/./hongkong2-ex19.jpg: No such file or directory
+mv: rename .//hongkong2-ex31.jpg to hongkong/./hongkong2-ex31.jpg: No such file or directory
+find ./ -type f grep miura xargs -I% mv % miura/.
+mv: rename .//hongkong2-ex25.jpg to hongkong/./hongkong2-ex25.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO30.jpg to hongkong/./hongkong3-TseungKwanO30.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO24.jpg to hongkong/./hongkong3-TseungKwanO24.jpg: No such file or directory
+mv: rename .//hongkong3-TseungKwanO18.jpg to hongkong/./hongkong3-TseungKwanO18.jpg: No such file or directory
+find ./ -type f grep miuradaibutu xargs -I% mv % miuradaibutu/.
+find ./ -type f grep miyagi-arahabaki xargs -I% mv % miyagi-arahabaki/.
+find ./ -type f grep miyajima xargs -I% mv % miyajima/.
+find ./ -type f grep miyazaki-amanoyasukawara xargs -I% mv % miyazaki-amanoyasukawara/.
+find ./ -type f grep miyazaki-kannonji xargs -I% mv % miyazaki-kannonji/.
+find ./ -type f grep miyazaki-snake xargs -I% mv % miyazaki-snake/.
+find ./ -type f grep miyazaki-takehara xargs -I% mv % miyazaki-takehara/.
+mv: rename .//miuradaibutuicon.jpg to miura/./miuradaibutuicon.jpg: No such file or directory
+find ./ -type f grep miyazaki-tumakirisima xargs -I% mv % miyazaki-tumakirisima/.
+find ./ -type f grep mogami xargs -I% mv % mogami/.
+find ./ -type f grep mogami-hanagasajizo xargs -I% mv % mogami-hanagasajizo/.
+find ./ -type f grep mogami-izusawa xargs -I% mv % mogami-izusawa/.
+find ./ -type f grep mogami-komatuzawa xargs -I% mv % mogami-komatuzawa/.
+find ./ -type f grep mogami-mukasari2 xargs -I% mv % mogami-mukasari2/.
+mv: rename .//mogami-komatuzawa09.jpg to mogami/./mogami-komatuzawa09.jpg: No such file or directory
+find ./ -type f grep mogami-obanazawa xargs -I% mv % mogami-obanazawa/.
+mv: rename .//mogami-hanagasajizo01.jpg to mogami/./mogami-hanagasajizo01.jpg: No such file or directory
+find ./ -type f grep mogamikaramatu xargs -I% mv % mogamikaramatu/.
+mv: rename .//mogami-hanagasajizo03.jpg to mogami/./mogami-hanagasajizo03.jpg: No such file or directory
+find ./ -type f grep mogamikurotori xargs -I% mv % mogamikurotori/.
+find ./ -type f grep mogamimutukunugi xargs -I% mv % mogamimutukunugi/.
+mv: rename .//mogami-hanagasajizo02.jpg to mogami/./mogami-hanagasajizo02.jpg: No such file or directory
+find ./ -type f grep mogamiwakamatu xargs -I% mv % mogamiwakamatu/.
+mv: rename .//mogamikaramatu04.jpg to mogami/./mogamikaramatu04.jpg: No such file or directory
+mv: rename .//mogami-mukasari2icon.jpg to mogami/./mogami-mukasari2icon.jpg: No such file or directory
+mv: rename .//mogamikurotori09.jpg to mogami/./mogamikurotori09.jpg: No such file or directory
+mv: rename .//mogamikurotori08.jpg to mogami/./mogamikurotori08.jpg: No such file or directory
+mv: rename .//mogamikurotori20.jpg to mogami/./mogamikurotori20.jpg: No such file or directory
+mv: rename .//mogami-izusawa01.jpg to mogami/./mogami-izusawa01.jpg: No such file or directory
+find ./ -type f grep mogamiyamadera xargs -I% mv % mogamiyamadera/.
+mv: rename .//mogamikaramatu05.jpg to mogami/./mogamikaramatu05.jpg: No such file or directory
+mv: rename .//mogamikaramatu07.jpg to mogami/./mogamikaramatu07.jpg: No such file or directory
+mv: rename .//mogami-izusawa03.jpg to mogami/./mogami-izusawa03.jpg: No such file or directory
+mv: rename .//mogami-mukasari2.html to mogami/./mogami-mukasari2.html: No such file or directory
+find ./ -type f grep momo xargs -I% mv % momo/.
+mv: rename .//mogami-izusawa02.jpg to mogami/./mogami-izusawa02.jpg: No such file or directory
+mv: rename .//mogamikaramatu06.jpg to mogami/./mogamikaramatu06.jpg: No such file or directory
+mv: rename .//mogamikaramatu02.jpg to mogami/./mogamikaramatu02.jpg: No such file or directory
+mv: rename .//mogami-izusawa06.jpg to mogami/./mogami-izusawa06.jpg: No such file or directory
+find ./ -type f grep morioka xargs -I% mv % morioka/.
+mv: rename .//mogamiwakamatu.html to mogamiwakamatu/./mogamiwakamatu.html: No such file or directory
+mv: rename .//mogamikaramatu03.jpg to mogami/./mogamikaramatu03.jpg: No such file or directory
+mv: rename .//mogamikaramatu01.jpg to mogami/./mogamikaramatu01.jpg: No such file or directory
+mv: rename .//mogami-izusawa05.jpg to mogami/./mogami-izusawa05.jpg: No such file or directory
+find ./ -type f grep muifatmonastery xargs -I% mv % muifatmonastery/.
+mv: rename .//mogamikurotori19.jpg to mogami/./mogamikurotori19.jpg: No such file or directory
+mv: rename .//mogami-izusawa04.jpg to mogami/./mogami-izusawa04.jpg: No such file or directory
+mv: rename .//mogamikurotori14.jpg to mogami/./mogamikurotori14.jpg: No such file or directory
+find ./ -type f grep muryouji xargs -I% mv % muryouji/.
+mv: rename .//mogamikurotori15.jpg to mogami/./mogamikurotori15.jpg: No such file or directory
+find ./ -type f grep myanmar2 xargs -I% mv % myanmar2/.
+mv: rename .//mogamikurotori01.jpg to mogami/./mogamikurotori01.jpg: No such file or directory
+mv: rename .//mogamikurotori17.jpg to mogami/./mogamikurotori17.jpg: No such file or directory
+mv: rename .//mogamikurotori03.jpg to mogami/./mogamikurotori03.jpg: No such file or directory
+find ./ -type f grep myoutokuji xargs -I% mv % myoutokuji/.
+mv: rename .//mogamikurotori02.jpg to mogami/./mogamikurotori02.jpg: No such file or directory
+mv: rename .//mogamikurotori16.jpg to mogami/./mogamikurotori16.jpg: No such file or directory
+mv: rename .//mogamikurotori12.jpg to mogami/./mogamikurotori12.jpg: No such file or directory
+find ./ -type f grep nagano-kokugonji xargs -I% mv % nagano-kokugonji/.
+mv: rename .//mogamikurotori06.jpg to mogami/./mogamikurotori06.jpg: No such file or directory
+mv: rename .//mogamikurotori07.jpg to mogami/./mogamikurotori07.jpg: No such file or directory
+find ./ -type f grep nagano-ontosai xargs -I% mv % nagano-ontosai/.
+mv: rename .//mogamikaramatu08.jpg to mogami/./mogamikaramatu08.jpg: No such file or directory
+mv: rename .//mogamikurotori05.jpg to mogami/./mogamikurotori05.jpg: No such file or directory
+mv: rename .//mogamiyamadera.html to mogamiyamadera/./mogamiyamadera.html: No such file or directory
+mv: rename .//mogamikurotori11.jpg to mogami/./mogamikurotori11.jpg: No such file or directory
+find ./ -type f grep nagano-reijyouzan xargs -I% mv % nagano-reijyouzan/.
+mv: rename .//mogamikurotori10.jpg to mogami/./mogamikurotori10.jpg: No such file or directory
+mv: rename .//mogamikurotori04.jpg to mogami/./mogamikurotori04.jpg: No such file or directory
+mv: rename .//mogamikaramatu09.jpg to mogami/./mogamikaramatu09.jpg: No such file or directory
+find ./ -type f grep nagano-shouwaji xargs -I% mv % nagano-shouwaji/.
+mv: rename .//mogami-obanazawa03.jpg to mogami/./mogami-obanazawa03.jpg: No such file or directory
+mv: rename .//mogamiwakamatu03.jpg to mogami/./mogamiwakamatu03.jpg: No such file or directory
+find ./ -type f grep nagano-syunara xargs -I% mv % nagano-syunara/.
+mv: rename .//mogami-komatuzawa01.jpg to mogami/./mogami-komatuzawa01.jpg: No such file or directory
+find ./ -type f grep nagano-tanabata xargs -I% mv % nagano-tanabata/.
+mv: rename .//mogamiwakamatu02.jpg to mogami/./mogamiwakamatu02.jpg: No such file or directory
+mv: rename .//mogami-obanazawa02.jpg to mogami/./mogami-obanazawa02.jpg: No such file or directory
+mv: rename .//mogami-komatuzawa02.jpg to mogami/./mogami-komatuzawa02.jpg: No such file or directory
+find ./ -type f grep nagasaki-koutouji xargs -I% mv % nagasaki-koutouji/.
+mv: rename .//mogami-komatuzawa03.jpg to mogami/./mogami-komatuzawa03.jpg: No such file or directory
+mv: rename .//mogamiwakamatu01.jpg to mogami/./mogamiwakamatu01.jpg: No such file or directory
+find ./ -type f grep nagasaki-ryushoji xargs -I% mv % nagasaki-ryushoji/.
+mv: rename .//mogami-obanazawa01.jpg to mogami/./mogami-obanazawa01.jpg: No such file or directory
+mv: rename .//mogamimutukunugi04.jpg to mogami/./mogamimutukunugi04.jpg: No such file or directory
+mv: rename .//mogami-obanazawa05.jpg to mogami/./mogami-obanazawa05.jpg: No such file or directory
+find ./ -type f grep nagasaki-tennyo xargs -I% mv % nagasaki-tennyo/.
+mv: rename .//mogami-komatuzawa07.jpg to mogami/./mogami-komatuzawa07.jpg: No such file or directory
+mv: rename .//mogamiwakamatu11.jpg to mogami/./mogamiwakamatu11.jpg: No such file or directory
+mv: rename .//mogamiwakamatu05.jpg to mogami/./mogamiwakamatu05.jpg: No such file or directory
+mv: rename .//mogamiwakamatu04.jpg to mogami/./mogamiwakamatu04.jpg: No such file or directory
+mv: rename .//mogamiwakamatu10.jpg to mogami/./mogamiwakamatu10.jpg: No such file or directory
+find ./ -type f grep nago xargs -I% mv % nago/.
+mv: rename .//mogami-komatuzawa06.jpg to mogami/./mogami-komatuzawa06.jpg: No such file or directory
+mv: rename .//mogami-obanazawa04.jpg to mogami/./mogami-obanazawa04.jpg: No such file or directory
+mv: rename .//mogamimutukunugi01.jpg to mogami/./mogamimutukunugi01.jpg: No such file or directory
+find ./ -type f grep nakanofudo xargs -I% mv % nakanofudo/.
+mv: rename .//mogamimutukunugi03.jpg to mogami/./mogamimutukunugi03.jpg: No such file or directory
+mv: rename .//mogami-obanazawa06.jpg to mogami/./mogami-obanazawa06.jpg: No such file or directory
+find ./ -type f grep nakayama xargs -I% mv % nakayama/.
+mv: rename .//mogami-komatuzawa04.jpg to mogami/./mogami-komatuzawa04.jpg: No such file or directory
+mv: rename .//mogami-komatuzawa10.jpg to mogami/./mogami-komatuzawa10.jpg: No such file or directory
+mv: rename .//mogamiwakamatu06.jpg to mogami/./mogamiwakamatu06.jpg: No such file or directory
+find ./ -type f grep nanzouin xargs -I% mv % nanzouin/.
+mv: rename .//mogamiwakamatu12.jpg to mogami/./mogamiwakamatu12.jpg: No such file or directory
+mv: rename .//mogamiyamadera08.jpg to mogami/./mogamiyamadera08.jpg: No such file or directory
+mv: rename .//mogamikurotori.html to mogami/./mogamikurotori.html: No such file or directory
+find ./ -type f grep nara-ryosenji xargs -I% mv % nara-ryosenji/.
+mv: rename .//mogamiyamadera09.jpg to mogami/./mogamiyamadera09.jpg: No such file or directory
+find ./ -type f grep nara-sigisan xargs -I% mv % nara-sigisan/.
+mv: rename .//mogamiwakamatu07.jpg to mogami/./mogamiwakamatu07.jpg: No such file or directory
+mv: rename .//mogami-komatuzawa11.jpg to mogami/./mogami-komatuzawa11.jpg: No such file or directory
+mv: rename .//mogami-komatuzawa05.jpg to mogami/./mogami-komatuzawa05.jpg: No such file or directory
+find ./ -type f grep nara-wakamiya xargs -I% mv % nara-wakamiya/.
+mv: rename .//mogamimutukunugi02.jpg to mogami/./mogamimutukunugi02.jpg: No such file or directory
+find ./ -type f grep nehanjyou xargs -I% mv % nehanjyou/.
+find ./ -type f grep nenbutuji xargs -I% mv % nenbutuji/.
+find ./ -type f grep nietbantinhxa xargs -I% mv % nietbantinhxa/.
+find ./ -type f grep niigata-agano xargs -I% mv % niigata-agano/.
+find ./ -type f grep niigata-chonbo xargs -I% mv % niigata-chonbo/.
+find ./ -type f grep niigata-enmado xargs -I% mv % niigata-enmado/.
+find ./ -type f grep niigata-fudanji xargs -I% mv % niigata-fudanji/.
+find ./ -type f grep niigata-hodare xargs -I% mv % niigata-hodare/.
+find ./ -type f grep niigata-houtoku xargs -I% mv % niigata-houtoku/.
+find ./ -type f grep niigata-syoki xargs -I% mv % niigata-syoki/.
+find ./ -type f grep nitirinji xargs -I% mv % nitirinji/.
+find ./ -type f grep nounai xargs -I% mv % nounai/.
+find ./ -type f grep nuisam xargs -I% mv % nuisam/.
+find ./ -type f grep ohfuna xargs -I% mv % ohfuna/.
+find ./ -type f grep ohkura xargs -I% mv % ohkura/.
+find ./ -type f grep oita-ajimu xargs -I% mv % oita-ajimu/.
+find ./ -type f grep oita-ex xargs -I% mv % oita-ex/.
+find ./ -type f grep oita-hyotan xargs -I% mv % oita-hyotan/.
+find ./ -type f grep oita-inazumi xargs -I% mv % oita-inazumi/.
+find ./ -type f grep oita-reisenji xargs -I% mv % oita-reisenji/.
+find ./ -type f grep oita-shounji xargs -I% mv % oita-shounji/.
+find ./ -type f grep oita-todoroki xargs -I% mv % oita-todoroki/.
+find ./ -type f grep oita-tsubaki xargs -I% mv % oita-tsubaki/.
+find ./ -type f grep oita-tsubaki0 xargs -I% mv % oita-tsubaki0/.
+find ./ -type f grep oita-uchiyama xargs -I% mv % oita-uchiyama/.
+find ./ -type f grep oita-usukidaibutu xargs -I% mv % oita-usukidaibutu/.
+find ./ -type f grep oji xargs -I% mv % oji/.
+mv: rename .//oita-tsubaki01.jpg to oita-tsubaki/./oita-tsubaki01.jpg: No such file or directory
+mv: rename .//oita-tsubaki03.jpg to oita-tsubaki/./oita-tsubaki03.jpg: No such file or directory
+find ./ -type f grep okayama xargs -I% mv % okayama/.
+mv: rename .//oita-tsubaki02.jpg to oita-tsubaki/./oita-tsubaki02.jpg: No such file or directory
+find ./ -type f grep okayama-asioh xargs -I% mv % okayama-asioh/.
+mv: rename .//oita-tsubaki06.jpg to oita-tsubaki/./oita-tsubaki06.jpg: No such file or directory
+find ./ -type f grep okayama-karube xargs -I% mv % okayama-karube/.
+mv: rename .//oita-tsubaki07.jpg to oita-tsubaki/./oita-tsubaki07.jpg: No such file or directory
+find ./ -type f grep okazaki-kousyouji xargs -I% mv % okazaki-kousyouji/.
+mv: rename .//oita-tsubaki05.jpg to oita-tsubaki/./oita-tsubaki05.jpg: No such file or directory
+mv: rename .//oita-tsubaki04.jpg to oita-tsubaki/./oita-tsubaki04.jpg: No such file or directory
+find ./ -type f grep okinawa-isiniwa xargs -I% mv % okinawa-isiniwa/.
+find ./ -type f grep omake xargs -I% mv % omake/.
+mv: rename .//okayama-karube23.jpg to okayama-karube/./okayama-karube23.jpg: No such file or directory
+mv: rename .//okayama-asioh14.jpg to okayama/./okayama-asioh14.jpg: No such file or directory
+find ./ -type f grep oneri xargs -I% mv % oneri/.
+mv: rename .//okayama-asioh15.jpg to okayama/./okayama-asioh15.jpg: No such file or directory
+mv: rename .//okayama-karube22.jpg to okayama-karube/./okayama-karube22.jpg: No such file or directory
+find ./ -type f grep oningyousama xargs -I% mv % oningyousama/.
+mv: rename .//okayama-karube20.jpg to okayama-karube/./okayama-karube20.jpg: No such file or directory
+mv: rename .//okayama-asioh01.jpg to okayama/./okayama-asioh01.jpg: No such file or directory
+mv: rename .//okayama-karube08.jpg to okayama-karube/./okayama-karube08.jpg: No such file or directory
+mv: mv: rename .//oita-tsubaki09.jpg to oita-tsubaki/./oita-tsubaki09.jpgrename .//okayama-asioh17.jpg to okayama/./okayama-asioh17.jpg: : No such file or directory
+No such file or directory
+mv: rename .//okayama-asioh03.jpg to okayama/./okayama-asioh03.jpg: No such file or directory
+mv: rename .//oita-tsubaki08.jpg to oita-tsubaki/./oita-tsubaki08.jpg: No such file or directory
+mv: rename .//okayama-karube09.jpg to okayama-karube/./okayama-karube09.jpg: No such file or directory
+find ./ -type f grep oosyaka xargs -I% mv % oosyaka/.
+mv: rename .//okayama-karube21.jpg to okayama-karube/./okayama-karube21.jpg: No such file or directory
+mv: rename .//okayama-asioh02.jpg to okayama/./okayama-asioh02.jpg: No such file or directory
+mv: rename .//okayama-asioh16.jpg to okayama/./okayama-asioh16.jpg: No such file or directory
+mv: rename .//okayama-karube.html to okayama-karube/./okayama-karube.html: No such file or directory
+find ./ -type f grep oota-sazae xargs -I% mv % oota-sazae/.
+mv: rename .//okayama-asioh12.jpg to okayama/./okayama-asioh12.jpg: No such file or directory
+mv: rename .//oita-tsubaki051.jpg to oita-tsubaki/./oita-tsubaki051.jpg: No such file or directory
+mv: rename .//okayama-asioh06.jpg to okayama/./okayama-asioh06.jpg: No such file or directory
+find ./ -type f grep oriwatari xargs -I% mv % oriwatari/.
+mv: rename .//okayama-asioh07.jpg to okayama/./okayama-asioh07.jpg: No such file or directory
+mv: rename .//okayama-asioh13.jpg to okayama/./okayama-asioh13.jpg: No such file or directory
+mv: rename .//okayama-asioh05.jpg to okayama/./okayama-asioh05.jpg: No such file or directory
+find ./ -type f grep osaka-ebara xargs -I% mv % osaka-ebara/.
+mv: rename .//okayama-asioh11.jpg to okayama/./okayama-asioh11.jpg: No such file or directory
+mv: rename .//okayama-asioh10.jpg to okayama/./okayama-asioh10.jpg: No such file or directory
+find ./ -type f grep osaka-iwafune xargs -I% mv % osaka-iwafune/.
+mv: rename .//okayama-asioh04.jpg to okayama/./okayama-asioh04.jpg: No such file or directory
+mv: rename .//okayama-asioh09.jpg to okayama/./okayama-asioh09.jpg: No such file or directory
+find ./ -type f grep osaka-kinun xargs -I% mv % osaka-kinun/.
+mv: rename .//okayama-asioh08.jpg to okayama/./okayama-asioh08.jpg: No such file or directory
+find ./ -type f grep osaka-mizukake xargs -I% mv % osaka-mizukake/.
+mv: rename .//okayama-asioh18.jpg to okayama/./okayama-asioh18.jpg: No such file or directory
+mv: rename .//okayama-asioh19.jpg to okayama/./okayama-asioh19.jpg: No such file or directory
+mv: rename .//okayama-karube16.jpg to okayama/./okayama-karube16.jpg: No such file or directory
+mv: rename .//okayama-karube02.jpg to okayama/./okayama-karube02.jpg: No such file or directory
+mv: rename .//okayama-karubeicon.jpg to okayama/./okayama-karubeicon.jpg: No such file or directory
+find ./ -type f grep osaka-namba xargs -I% mv % osaka-namba/.
+mv: rename .//okayama-karube03.jpg to okayama/./okayama-karube03.jpg: No such file or directory
+mv: rename .//okayama-karube17.jpg to okayama/./okayama-karube17.jpg: No such file or directory
+mv: rename .//okayama-karube01.jpg to okayama/./okayama-karube01.jpg: No such file or directory
+find ./ -type f grep osaka-ryuganji xargs -I% mv % osaka-ryuganji/.
+mv: rename .//okayama-asioh.html to okayama/./okayama-asioh.html: No such file or directory
+mv: rename .//okayama-karube15.jpg to okayama/./okayama-karube15.jpg: No such file or directory
+mv: rename .//okayama-karube14.jpg to okayama/./okayama-karube14.jpg: No such file or directory
+find ./ -type f grep phaphoa xargs -I% mv % phaphoa/.
+mv: rename .//okayama-karube04.jpg to okayama/./okayama-karube04.jpg: No such file or directory
+mv: rename .//okayama-karube10.jpg to okayama/./okayama-karube10.jpg: No such file or directory
+find ./ -type f grep phatbao xargs -I% mv % phatbao/.
+mv: rename .//okayama-asiohicon.jpg to okayama/./okayama-asiohicon.jpg: No such file or directory
+mv: rename .//okayama-karube11.jpg to okayama/./okayama-karube11.jpg: No such file or directory
+find ./ -type f grep phuocdien xargs -I% mv % phuocdien/.
+mv: rename .//okayama-karube05.jpg to okayama/./okayama-karube05.jpg: No such file or directory
+mv: rename .//okayama-karube13.jpg to okayama/./okayama-karube13.jpg: No such file or directory
+mv: rename .//okayama-karube07.jpg to okayama/./okayama-karube07.jpg: No such file or directory
+mv: rename .//okayama-karube06.jpg to okayama/./okayama-karube06.jpg: No such file or directory
+find ./ -type f grep phuochaitu xargs -I% mv % phuochaitu/.
+mv: rename .//okayama-karube12.jpg to okayama/./okayama-karube12.jpg: No such file or directory
+find ./ -type f grep pindaya xargs -I% mv % pindaya/.
+find ./ -type f grep pofookhill xargs -I% mv % pofookhill/.
+find ./ -type f grep polinmonastery xargs -I% mv % polinmonastery/.
+find ./ -type f grep quanan xargs -I% mv % quanan/.
+find ./ -type f grep rakaniwa xargs -I% mv % rakaniwa/.
+find ./ -type f grep rakanji xargs -I% mv % rakanji/.
+find ./ -type f grep reisen xargs -I% mv % reisen/.
+find ./ -type f grep rengein xargs -I% mv % rengein/.
+find ./ -type f grep repulsebay xargs -I% mv % repulsebay/.
+find ./ -type f grep ryoujyuin xargs -I% mv % ryoujyuin/.
+find ./ -type f grep ryouzen xargs -I% mv % ryouzen/.
+find ./ -type f grep sadoiwayasan xargs -I% mv % sadoiwayasan/.
+find ./ -type f grep sadokoufukujizo xargs -I% mv % sadokoufukujizo/.
+find ./ -type f grep sadonasinokijizo xargs -I% mv % sadonasinokijizo/.
+find ./ -type f grep sadosainokawara xargs -I% mv % sadosainokawara/.
+find ./ -type f grep saga-honpukuji xargs -I% mv % saga-honpukuji/.
+find ./ -type f grep saga-houanji xargs -I% mv % saga-houanji/.
+find ./ -type f grep saga-karatu xargs -I% mv % saga-karatu/.
+find ./ -type f grep saga-migawari xargs -I% mv % saga-migawari/.
+find ./ -type f grep saga-myochiin xargs -I% mv % saga-myochiin/.
+find ./ -type f grep saga-ryufukuji xargs -I% mv % saga-ryufukuji/.
+find ./ -type f grep saga-todoroki xargs -I% mv % saga-todoroki/.
+find ./ -type f grep saga-tosyaku xargs -I% mv % saga-tosyaku/.
+find ./ -type f grep saifukuji xargs -I% mv % saifukuji/.
+find ./ -type f grep saigoukouen xargs -I% mv % saigoukouen/.
+find ./ -type f grep saikairakuen xargs -I% mv % saikairakuen/.
+find ./ -type f grep saitama-enpukuji xargs -I% mv % saitama-enpukuji/.
+find ./ -type f grep saitama-gokokukannon xargs -I% mv % saitama-gokokukannon/.
+find ./ -type f grep saitama-jizouji xargs -I% mv % saitama-jizouji/.
+find ./ -type f grep saitama-jyofukuin xargs -I% mv % saitama-jyofukuin/.
+find ./ -type f grep saitama-kaiunfudo xargs -I% mv % saitama-kaiunfudo/.
+find ./ -type f grep saitama-mitsugi xargs -I% mv % saitama-mitsugi/.
+find ./ -type f grep saitama-namhoatu xargs -I% mv % saitama-namhoatu/.
+find ./ -type f grep saitama-ogine xargs -I% mv % saitama-ogine/.
+find ./ -type f grep saitama-sintouji xargs -I% mv % saitama-sintouji/.
+find ./ -type f grep saitama-sorataki xargs -I% mv % saitama-sorataki/.
+find ./ -type f grep saitama-suneori xargs -I% mv % saitama-suneori/.
+find ./ -type f grep sancarlone xargs -I% mv % sancarlone/.
+find ./ -type f grep sankaku xargs -I% mv % sankaku/.
+find ./ -type f grep sanpatrizio xargs -I% mv % sanpatrizio/.
+find ./ -type f grep sanriku-usemono xargs -I% mv % sanriku-usemono/.
+find ./ -type f grep sawayama xargs -I% mv % sawayama/.
+find ./ -type f grep senbutusan xargs -I% mv % senbutusan/.
+find ./ -type f grep setagaya-sitifukujin xargs -I% mv % setagaya-sitifukujin/.
+find ./ -type f grep settayawpagoda xargs -I% mv % settayawpagoda/.
+find ./ -type f grep sheungwan xargs -I% mv % sheungwan/.
+find ./ -type f grep shizuoika-inasimo xargs -I% mv % shizuoika-inasimo/.
+find ./ -type f grep shizuoka-hamanako xargs -I% mv % shizuoka-hamanako/.
+find ./ -type f grep shizuoka-kokuzo xargs -I% mv % shizuoka-kokuzo/.
+find ./ -type f grep shizuoka-nehan xargs -I% mv % shizuoka-nehan/.
+find ./ -type f grep shizuoka-otainai xargs -I% mv % shizuoka-otainai/.
+find ./ -type f grep shizuoka-peacepole xargs -I% mv % shizuoka-peacepole/.
+find ./ -type f grep shizuoka-yusanji xargs -I% mv % shizuoka-yusanji/.
+find ./ -type f grep shwemokhtawpagoda xargs -I% mv % shwemokhtawpagoda/.
+find ./ -type f grep shwezigonpagoda xargs -I% mv % shwezigonpagoda/.
+find ./ -type f grep siga-gyokkeiji xargs -I% mv % siga-gyokkeiji/.
+find ./ -type f grep siga-kinomoto xargs -I% mv % siga-kinomoto/.
+find ./ -type f grep singa-KongMengSan xargs -I% mv % singa-KongMengSan/.
+find ./ -type f grep singa-SriMariamman xargs -I% mv % singa-SriMariamman/.
+find ./ -type f grep singa-SriSrinivasa xargs -I% mv % singa-SriSrinivasa/.
+find ./ -type f grep singa-bugis xargs -I% mv % singa-bugis/.
+find ./ -type f grep singa-littleindia xargs -I% mv % singa-littleindia/.
+find ./ -type f grep singa-merlion xargs -I% mv % singa-merlion/.
+find ./ -type f grep singa-sakyamuni xargs -I% mv % singa-sakyamuni/.
+find ./ -type f grep siroyama xargs -I% mv % siroyama/.
+find ./ -type f grep sitihouji xargs -I% mv % sitihouji/.
+find ./ -type f grep sizuoka-kubidaibutu xargs -I% mv % sizuoka-kubidaibutu/.
+find ./ -type f grep skeletoncave xargs -I% mv % skeletoncave/.
+find ./ -type f grep somahyakusyaku xargs -I% mv % somahyakusyaku/.
+find ./ -type f grep srilanka xargs -I% mv % srilanka/.
+find ./ -type f grep srilanka-Alutgama xargs -I% mv % srilanka-Alutgama/.
+find ./ -type f grep srilanka-ambalangoda xargs -I% mv % srilanka-ambalangoda/.
+find ./ -type f grep srilanka-dambulla xargs -I% mv % srilanka-dambulla/.
+find ./ -type f grep srilanka-dikwella xargs -I% mv % srilanka-dikwella/.
+mv: rename .//srilanka-ambalangoda03.jpg to srilanka-ambalangoda/./srilanka-ambalangoda03.jpg: No such file or directory
+mv: rename .//srilanka-ambalangoda02.jpg to srilanka-ambalangoda/./srilanka-ambalangoda02.jpg: No such file or directory
+find ./ -type f grep srilanka-dikwella2 xargs -I% mv % srilanka-dikwella2/.
+find ./ -type f grep srilanka-kandy xargs -I% mv % srilanka-kandy/.
+mv: rename .//srilanka-dambulla27.jpg to srilanka-dambulla/./srilanka-dambulla27.jpg: No such file or directory
+mv: rename .//srilanka-dambulla26.jpg to srilanka-dambulla/./srilanka-dambulla26.jpg: No such file or directory
+mv: rename .//srilanka-dambulla24.jpg to srilanka-dambulla/./srilanka-dambulla24.jpg: No such file or directory
+mv: rename .//srilanka-dambulla18.jpg to srilanka/./srilanka-dambulla18.jpg: No such file or directory
+mv: rename .//srilanka-ambalangoda01.jpg to srilanka/./srilanka-ambalangoda01.jpg: No such file or directory
+find ./ -type f grep srilanka-matara2 xargs -I% mv % srilanka-matara2/.
+mv: rename .//srilanka-dambulla19.jpg to srilanka/./srilanka-dambulla19.jpg: No such file or directory
+mv: rename .//srilanka-dambulla25.jpg to srilanka/./srilanka-dambulla25.jpg: No such file or directory
+find ./ -type f grep srilanka-negombo xargs -I% mv % srilanka-negombo/.
+mv: mv: rename .//srilanka-dikwella220.jpg to srilanka-dikwella2/./srilanka-dikwella220.jpg: No such file or directory
+rename .//srilanka-dikwella221.jpg to srilanka-dikwella/./srilanka-dikwella221.jpg: No such file or directory
+mv: mv: rename .//srilanka-dikwella208.jpg to srilanka-dikwella2/./srilanka-dikwella208.jpg: No such file or directory
+rename .//srilanka-dikwella220.jpg to srilanka-dikwella/./srilanka-dikwella220.jpg: No such file or directory
+mv: rename .//srilanka-dikwella222.jpg to srilanka-dikwella2/./srilanka-dikwella222.jpg: No such file or directory
+mv: rename .//srilanka-dambulla09.jpg to srilanka/./srilanka-dambulla09.jpg: No such file or directory
+mv: rename .//srilanka-dikwella208.jpg to srilanka-dikwella/./srilanka-dikwella208.jpg: No such file or directory
+find ./ -type f grep srilanka-roadside xargs -I% mv % srilanka-roadside/.
+mv: mv: rename .//srilanka-dikwella223.jpg to srilanka-dikwella2/./srilanka-dikwella223.jpg: No such file or directory
+rename .//srilanka-dambulla21.jpg to srilanka/./srilanka-dambulla21.jpg: No such file or directory
+mv: rename .//srilanka-dikwella222.jpg to srilanka-dikwella/./srilanka-dikwella222.jpg: No such file or directory
+mv: rename .//srilanka-dikwella223.jpg to srilanka-dikwella/./srilanka-dikwella223.jpg: No such file or directory
+mv: rename .//srilanka-ambalangoda05.jpg to srilanka/./srilanka-ambalangoda05.jpg: No such file or directory
+find ./ -type f grep srilanka-roadside2. xargs -I% mv % srilanka-roadside2./.
+mv: rename .//srilanka-kandy30.jpg to srilanka-kandy/./srilanka-kandy30.jpg: No such file or directory
+mv: rename .//srilanka-dikwella224.jpg to srilanka-dikwella/./srilanka-dikwella224.jpg: No such file or directory
+mv: rename .//srilanka-ambalangoda11.jpg to srilanka/./srilanka-ambalangoda11.jpg: No such file or directory
+mv: rename .//srilanka-kandy18.jpg to srilanka-kandy/./srilanka-kandy18.jpg: No such file or directory
+mv: rename .//srilanka-dikwella218.jpg to srilanka-dikwella/./srilanka-dikwella218.jpg: No such file or directory
+mv: rename .//srilanka-ambalangoda10.jpg to srilanka/./srilanka-ambalangoda10.jpg: No such file or directory
+find ./ -type f grep sriranka-matara xargs -I% mv % sriranka-matara/.
+mv: rename .//srilanka-kandy19.jpg to srilanka-kandy/./srilanka-kandy19.jpg: No such file or directory
+mv: rename .//srilanka-dikwella219.jpg to srilanka-dikwella/./srilanka-dikwella219.jpg: No such file or directory
+mv: rename .//srilanka-ambalangoda04.jpg to srilanka/./srilanka-ambalangoda04.jpg: No such file or directory
+mv: rename .//srilanka-dikwella225.jpg to srilanka-dikwella/./srilanka-dikwella225.jpg: No such file or directory
+mv: rename .//srilanka-kandy31.jpg to srilanka-kandy/./srilanka-kandy31.jpg: No such file or directory
+mv: rename .//srilanka-kandy25.jpg to srilanka-kandy/./srilanka-kandy25.jpg: No such file or directory
+mv: rename .//srilanka-dambulla08.jpg to srilanka/./srilanka-dambulla08.jpg: No such file or directory
+mv: rename .//srilanka-kandy09.jpg to srilanka-kandy/./srilanka-kandy09.jpg: No such file or directory
+find ./ -type f grep sumadera xargs -I% mv % sumadera/.
+mv: rename .//srilanka-kandy21.jpg to srilanka-kandy/./srilanka-kandy21.jpg: No such file or directory
+mv: rename .//srilanka-kandy.html to srilanka-kandy/./srilanka-kandy.html: No such file or directory
+mv: rename .//srilanka-kandy20.jpg to srilanka-kandy/./srilanka-kandy20.jpg: No such file or directory
+mv: rename .//srilanka-dikwella224.jpg to srilanka/./srilanka-dikwella224.jpg: No such file or directory
+mv: rename .//srilanka-kandy08.jpg to srilanka-kandy/./srilanka-kandy08.jpg: No such file or directory
+mv: rename .//srilanka-kandy22.jpg to srilanka-kandy/./srilanka-kandy22.jpg: No such file or directory
+mv: rename .//srilanka-dikwella218.jpg to srilanka/./srilanka-dikwella218.jpg: No such file or directory
+mv: rename .//srilanka-dikwella2.html to srilanka-dikwella/./srilanka-dikwella2.html: No such file or directory
+mv: rename .//srilanka-roadside21.jpg to srilanka-roadside/./srilanka-roadside21.jpg: No such file or directory
+mv: mv: rename .//srilanka-dambulla22.jpg to srilanka/./srilanka-dambulla22.jpg: No such file or directory
+rename .//srilanka-roadside09.jpg to srilanka-roadside/./srilanka-roadside09.jpg: No such file or directory
+find ./ -type f grep suoitien0 xargs -I% mv % suoitien0/.
+mv: rename .//srilanka-ambalangoda12.jpg to srilanka/./srilanka-ambalangoda12.jpg: No such file or directory
+mv: rename .//srilanka-roadside21.jpg to srilanka-roadside2././srilanka-roadside21.jpg: No such file or directory
+mv: rename .//srilanka-roadside20.jpg to srilanka-roadside/./srilanka-roadside20.jpg: No such file or directory
+mv: rename .//srilanka-ambalangoda06.jpg to srilanka/./srilanka-ambalangoda06.jpg: No such file or directory
+mv: rename .//srilanka-ambalangoda07.jpg to srilanka/./srilanka-ambalangoda07.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.09.jpg to srilanka-roadside/./srilanka-roadside2.09.jpg: No such file or directory
+find ./ -type f grep syourouokuri xargs -I% mv % syourouokuri/.
+mv: rename .//srilanka-dambulla23.jpg to srilanka/./srilanka-dambulla23.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.21.jpg to srilanka-roadside/./srilanka-roadside2.21.jpg: No such file or directory
+mv: rename .//srilanka-roadside08.jpg to srilanka/./srilanka-roadside08.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.20.jpg to srilanka-roadside/./srilanka-roadside2.20.jpg: No such file or directory
+mv: rename .//srilanka-dikwella219.jpg to srilanka/./srilanka-dikwella219.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.08.jpg to srilanka-roadside/./srilanka-roadside2.08.jpg: No such file or directory
+mv: rename .//srilanka/srilanka-dikwella209.jpg to srilanka-dikwella/./srilanka-dikwella209.jpg: No such file or directory
+mv: rename .//srilanka-dikwella225.jpg to srilanka/./srilanka-dikwella225.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.22.jpg to srilanka-roadside/./srilanka-roadside2.22.jpg: No such file or directory
+find ./ -type f grep syouryu xargs -I% mv % syouryu/.
+mv: rename .//srilanka/srilanka-dikwella221.jpg to srilanka-dikwella/./srilanka-dikwella221.jpg: No such file or directory
+mv: rename .//srilanka-roadside20.jpg to srilanka/./srilanka-roadside20.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.23.jpg to srilanka-roadside/./srilanka-roadside2.23.jpg: No such file or directory
+mv: rename .//srilanka-roadside1.html to srilanka/./srilanka-roadside1.html: No such file or directory
+mv: rename .//srilanka-roadside2.18.jpg to srilanka-roadside/./srilanka-roadside2.18.jpg: No such file or directory
+mv: rename .//srilanka-kandy23.jpg to srilanka/./srilanka-kandy23.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.19.jpg to srilanka-roadside/./srilanka-roadside2.19.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.09.jpg to srilanka/./srilanka-roadside2.09.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.14.jpg to srilanka-roadside/./srilanka-roadside2.14.jpg: No such file or directory
+find ./ -type f grep taiwan05-cihhupark xargs -I% mv % taiwan05-cihhupark/.
+mv: rename .//srilanka-roadside2.21.jpg to srilanka/./srilanka-roadside2.21.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.15.jpg to srilanka-roadside/./srilanka-roadside2.15.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.01.jpg to srilanka-roadside/./srilanka-roadside2.01.jpg: No such file or directory
+mv: rename .//srilanka-dikwella214.jpg to srilanka-dikwella/./srilanka-dikwella214.jpg: No such file or directory
+find ./ -type f grep taiwan05baoantang xargs -I% mv % taiwan05baoantang/.
+mv: rename .//srilanka-negombo23.jpg to srilanka/./srilanka-negombo23.jpg: No such file or directory
+mv: rename .//srilanka-dikwella201.jpg to srilanka-dikwella/./srilanka-dikwella201.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.17.jpg to srilanka-roadside/./srilanka-roadside2.17.jpg: No such file or directory
+find ./ -type f grep taiwan05baojhong xargs -I% mv % taiwan05baojhong/.
+mv: rename .//srilanka-roadside2.03.jpg to srilanka-roadside/./srilanka-roadside2.03.jpg: No such file or directory
+mv: rename .//srilanka-dikwella06.jpg to srilanka/./srilanka-dikwella06.jpg: No such file or directory
+mv: rename .//srilanka-dikwella215.jpg to srilanka-dikwella/./srilanka-dikwella215.jpg: No such file or directory
+mv: rename .//srilanka-dikwella12.jpg to srilanka/./srilanka-dikwella12.jpg: No such file or directory
+mv: rename .//srilanka-dikwella203.jpg to srilanka-dikwella/./srilanka-dikwella203.jpg: No such file or directory
+find ./ -type f grep taiwan05ciyunsi xargs -I% mv % taiwan05ciyunsi/.
+mv: rename .//srilanka-dikwella217.jpg to srilanka-dikwella/./srilanka-dikwella217.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama21.jpg to srilanka/./srilanka-Alutgama21.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.02.jpg to srilanka-roadside/./srilanka-roadside2.02.jpg: No such file or directory
+mv: rename .//srilanka-dikwella216.jpg to srilanka-dikwella/./srilanka-dikwella216.jpg: No such file or directory
+mv: rename .//srilanka-matara212.jpg to srilanka/./srilanka-matara212.jpg: No such file or directory
+mv: rename .//srilanka-dikwella202.jpg to srilanka-dikwella/./srilanka-dikwella202.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.16.jpg to srilanka-roadside/./srilanka-roadside2.16.jpg: No such file or directory
+mv: rename .//srilanka-matara206.jpg to srilanka/./srilanka-matara206.jpg: No such file or directory
+mv: rename .//srilanka-dikwella206.jpg to srilanka-dikwella/./srilanka-dikwella206.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.12.jpg to srilanka-roadside/./srilanka-roadside2.12.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.06.jpg to srilanka-roadside/./srilanka-roadside2.06.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama09.jpg to srilanka/./srilanka-Alutgama09.jpg: No such file or directory
+mv: rename .//srilanka-dikwella212.jpg to srilanka-dikwella/./srilanka-dikwella212.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.07.jpg to srilanka-roadside/./srilanka-roadside2.07.jpg: No such file or directory
+mv: rename .//srilanka-dikwella213.jpg to srilanka-dikwella/./srilanka-dikwella213.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama08.jpg to srilanka/./srilanka-Alutgama08.jpg: No such file or directory
+find ./ -type f grep taiwan05foguangshan xargs -I% mv % taiwan05foguangshan/.
+mv: rename .//srilanka-roadside2.13.jpg to srilanka-roadside/./srilanka-roadside2.13.jpg: No such file or directory
+mv: rename .//srilanka-dikwella207.jpg to srilanka-dikwella/./srilanka-dikwella207.jpg: No such file or directory
+mv: rename .//srilanka-matara207.jpg to srilanka/./srilanka-matara207.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama20.jpg to srilanka/./srilanka-Alutgama20.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.05.jpg to srilanka-roadside/./srilanka-roadside2.05.jpg: No such file or directory
+mv: rename .//srilanka-dikwella211.jpg to srilanka-dikwella/./srilanka-dikwella211.jpg: No such file or directory
+mv: rename .//srilanka-matara213.jpg to srilanka/./srilanka-matara213.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.11.jpg to srilanka-roadside/./srilanka-roadside2.11.jpg: No such file or directory
+mv: rename .//srilanka-dikwella205.jpg to srilanka-dikwella/./srilanka-dikwella205.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.10.jpg to srilanka-roadside/./srilanka-roadside2.10.jpg: No such file or directory
+mv: rename .//srilanka-dikwella204.jpg to srilanka-dikwella/./srilanka-dikwella204.jpg: No such file or directory
+mv: rename .//srilanka-dikwella13.jpg to srilanka/./srilanka-dikwella13.jpg: No such file or directory
+find ./ -type f grep taiwan05jinganggong xargs -I% mv % taiwan05jinganggong/.
+mv: rename .//srilanka-roadside2.04.jpg to srilanka-roadside/./srilanka-roadside2.04.jpg: No such file or directory
+mv: rename .//srilanka-dikwella210.jpg to srilanka-dikwella/./srilanka-dikwella210.jpg: No such file or directory
+mv: rename .//srilanka-dikwella07.jpg to srilanka/./srilanka-dikwella07.jpg: No such file or directory
+mv: rename .//srilanka-negombo22.jpg to srilanka/./srilanka-negombo22.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.20.jpg to srilanka/./srilanka-roadside2.20.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.08.jpg to srilanka/./srilanka-roadside2.08.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.22.jpg to srilanka/./srilanka-roadside2.22.jpg: No such file or directory
+find ./ -type f grep taiwan05lotuspond xargs -I% mv % taiwan05lotuspond/.
+mv: rename .//srilanka-negombo08.jpg to srilanka/./srilanka-negombo08.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.html to srilanka-roadside/./srilanka-roadside2.html: No such file or directory
+mv: rename .//srilanka-negombo20.jpg to srilanka/./srilanka-negombo20.jpg: No such file or directory
+mv: rename .//srilanka-dikwella11.jpg to srilanka/./srilanka-dikwella11.jpg: No such file or directory
+mv: rename .//srilanka-dikwella05.jpg to srilanka/./srilanka-dikwella05.jpg: No such file or directory
+find ./ -type f grep taiwan05madou xargs -I% mv % taiwan05madou/.
+mv: rename .//srilanka-matara205.jpg to srilanka/./srilanka-matara205.jpg: No such file or directory
+mv: rename .//srilanka-matara211.jpg to srilanka/./srilanka-matara211.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama22.jpg to srilanka/./srilanka-Alutgama22.jpg: No such file or directory
+mv: rename .//srilanka-matara210.jpg to srilanka/./srilanka-matara210.jpg: No such file or directory
+find ./ -type f grep taiwan05quimaoyuan xargs -I% mv % taiwan05quimaoyuan/.
+mv: rename .//srilanka-Alutgama23.jpg to srilanka/./srilanka-Alutgama23.jpg: No such file or directory
+find ./ -type f grep taiwan05stonetemple xargs -I% mv % taiwan05stonetemple/.
+mv: rename .//srilanka-dikwella2.html to srilanka/./srilanka-dikwella2.html: No such file or directory
+find ./ -type f grep taiwan05yanshui xargs -I% mv % taiwan05yanshui/.
+mv: rename .//srilanka-matara204.jpg to srilanka/./srilanka-matara204.jpg: No such file or directory
+mv: rename .//srilanka-dikwella04.jpg to srilanka/./srilanka-dikwella04.jpg: No such file or directory
+find ./ -type f grep taiwan3-chunangrain xargs -I% mv % taiwan3-chunangrain/.
+mv: rename .//srilanka-dikwella10.jpg to srilanka/./srilanka-dikwella10.jpg: No such file or directory
+find ./ -type f grep taiwan3-chunanmaso xargs -I% mv % taiwan3-chunanmaso/.
+mv: rename .//srilanka-negombo21.jpg to srilanka/./srilanka-negombo21.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.23.jpg to srilanka/./srilanka-roadside2.23.jpg: No such file or directory
+mv: rename .//srilanka-negombo19.jpg to srilanka/./srilanka-negombo19.jpg: No such file or directory
+find ./ -type f grep taiwan3-hsinchucitygod xargs -I% mv % taiwan3-hsinchucitygod/.
+mv: rename .//srilanka-dikwella14.jpg to srilanka/./srilanka-dikwella14.jpg: No such file or directory
+mv: rename .//srilanka-matara214.jpg to srilanka/./srilanka-matara214.jpg: No such file or directory
+find ./ -type f grep taiwan3-hsinchuputian xargs -I% mv % taiwan3-hsinchuputian/.
+mv: rename .//srilanka-Alutgama26.jpg to srilanka/./srilanka-Alutgama26.jpg: No such file or directory
+mv: rename .//srilanka-matara215.jpg to srilanka/./srilanka-matara215.jpg: No such file or directory
+mv: rename .//srilanka-matara201.jpg to srilanka/./srilanka-matara201.jpg: No such file or directory
+find ./ -type f grep taiwan3-lugang xargs -I% mv % taiwan3-lugang/.
+mv: rename .//srilanka-dikwella01.jpg to srilanka/./srilanka-dikwella01.jpg: No such file or directory
+mv: rename .//srilanka-dikwella15.jpg to srilanka/./srilanka-dikwella15.jpg: No such file or directory
+mv: rename .//srilanka-negombo18.jpg to srilanka/./srilanka-negombo18.jpg: No such file or directory
+find ./ -type f grep taiwan3-sanjhih xargs -I% mv % taiwan3-sanjhih/.
+mv: rename .//srilanka-roadside2.18.jpg to srilanka/./srilanka-roadside2.18.jpg: No such file or directory
+mv: rename .//srilanka-dikwella03.jpg to srilanka/./srilanka-dikwella03.jpg: No such file or directory
+mv: rename .//srilanka-dikwella17.jpg to srilanka/./srilanka-dikwella17.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama18.jpg to srilanka/./srilanka-Alutgama18.jpg: No such file or directory
+mv: rename .//srilanka-matara217.jpg to srilanka/./srilanka-matara217.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama24.jpg to srilanka/./srilanka-Alutgama24.jpg: No such file or directory
+mv: rename .//srilanka-matara203.jpg to srilanka/./srilanka-matara203.jpg: No such file or directory
+find ./ -type f grep taiwan3-shihmen xargs -I% mv % taiwan3-shihmen/.
+mv: rename .//srilanka-matara202.jpg to srilanka/./srilanka-matara202.jpg: No such file or directory
+mv: rename .//srilanka-matara216.jpg to srilanka/./srilanka-matara216.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama25.jpg to srilanka/./srilanka-Alutgama25.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama19.jpg to srilanka/./srilanka-Alutgama19.jpg: No such file or directory
+find ./ -type f grep taiwan3-taichungnantien xargs -I% mv % taiwan3-taichungnantien/.
+mv: rename .//srilanka-dikwella16.jpg to srilanka/./srilanka-dikwella16.jpg: No such file or directory
+mv: rename .//srilanka-dikwella02.jpg to srilanka/./srilanka-dikwella02.jpg: No such file or directory
+mv: rename .//srilanka-dambulla.html to srilanka/./srilanka-dambulla.html: No such file or directory
+find ./ -type f grep taiwan3-wufong xargs -I% mv % taiwan3-wufong/.
+mv: rename .//srilanka-roadside2.19.jpg to srilanka/./srilanka-roadside2.19.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.14.jpg to srilanka/./srilanka-roadside2.14.jpg: No such file or directory
+mv: rename .//srilanka-negombo02.jpg to srilanka/./srilanka-negombo02.jpg: No such file or directory
+find ./ -type f grep taiwan3ex xargs -I% mv % taiwan3ex/.
+mv: rename .//srilanka-negombo16.jpg to srilanka/./srilanka-negombo16.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama14.jpg to srilanka/./srilanka-Alutgama14.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama.html to srilanka/./srilanka-Alutgama.html: No such file or directory
+find ./ -type f grep taiwan4-EarthMotherTemple xargs -I% mv % taiwan4-EarthMotherTemple/.
+mv: rename .//srilanka-Alutgama01.jpg to srilanka/./srilanka-Alutgama01.jpg: No such file or directory
+mv: rename .//srilanka-negombo17.jpg to srilanka/./srilanka-negombo17.jpg: No such file or directory
+mv: rename .//srilanka-negombo03.jpg to srilanka/./srilanka-negombo03.jpg: No such file or directory
+find ./ -type f grep taiwan4-RainbowVillage xargs -I% mv % taiwan4-RainbowVillage/.
+mv: rename .//srilanka-roadside2.15.jpg to srilanka/./srilanka-roadside2.15.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.01.jpg to srilanka/./srilanka-roadside2.01.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.17.jpg to srilanka/./srilanka-roadside2.17.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.03.jpg to srilanka/./srilanka-roadside2.03.jpg: No such file or directory
+find ./ -type f grep taiwan4-hengwengong xargs -I% mv % taiwan4-hengwengong/.
+mv: rename .//srilanka-negombo15.jpg to srilanka/./srilanka-negombo15.jpg: No such file or directory
+mv: rename .//srilanka-negombo01.jpg to srilanka/./srilanka-negombo01.jpg: No such file or directory
+mv: rename .//srilanka-dikwella18.jpg to srilanka/./srilanka-dikwella18.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama17.jpg to srilanka/./srilanka-Alutgama17.jpg: No such file or directory
+mv: rename .//srilanka-matara224.jpg to srilanka/./srilanka-matara224.jpg: No such file or directory
+find ./ -type f grep taiwan4-hushanzu xargs -I% mv % taiwan4-hushanzu/.
+mv: rename .//srilanka-Alutgama03.jpg to srilanka/./srilanka-Alutgama03.jpg: No such file or directory
+mv: rename .//srilanka-matara218.jpg to srilanka/./srilanka-matara218.jpg: No such file or directory
+mv: rename .//srilanka-matara219.jpg to srilanka/./srilanka-matara219.jpg: No such file or directory
+find ./ -type f grep taiwan4-jingfugong xargs -I% mv % taiwan4-jingfugong/.
+mv: rename .//srilanka-Alutgama02.jpg to srilanka/./srilanka-Alutgama02.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama16.jpg to srilanka/./srilanka-Alutgama16.jpg: No such file or directory
+mv: rename .//srilanka-negombo14.jpg to srilanka/./srilanka-negombo14.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.02.jpg to srilanka/./srilanka-roadside2.02.jpg: No such file or directory
+find ./ -type f grep taiwan4-longtan xargs -I% mv % taiwan4-longtan/.
+mv: rename .//srilanka-roadside2.16.jpg to srilanka/./srilanka-roadside2.16.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.12.jpg to srilanka/./srilanka-roadside2.12.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.06.jpg to srilanka/./srilanka-roadside2.06.jpg: No such file or directory
+mv: rename .//srilanka-negombo10.jpg to srilanka/./srilanka-negombo10.jpg: No such file or directory
+find ./ -type f grep taiwan4-omake xargs -I% mv % taiwan4-omake/.
+mv: rename .//srilanka-negombo04.jpg to srilanka/./srilanka-negombo04.jpg: No such file or directory
+mv: rename .//srilanka-dikwella09.jpg to srilanka/./srilanka-dikwella09.jpg: No such file or directory
+mv: rename .//srilanka-matara209.jpg to srilanka/./srilanka-matara209.jpg: No such file or directory
+mv: rename .//srilanka-matara221.jpg to srilanka/./srilanka-matara221.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama12.jpg to srilanka/./srilanka-Alutgama12.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama06.jpg to srilanka/./srilanka-Alutgama06.jpg: No such file or directory
+find ./ -type f grep taiwan4-quimaoyuan xargs -I% mv % taiwan4-quimaoyuan/.
+mv: rename .//srilanka-dikwella1.html to srilanka/./srilanka-dikwella1.html: No such file or directory
+mv: rename .//srilanka-Alutgama07.jpg to srilanka/./srilanka-Alutgama07.jpg: No such file or directory
+mv: rename .//srilanka-matara220.jpg to srilanka/./srilanka-matara220.jpg: No such file or directory
+find ./ -type f grep taiwan4-wandangong xargs -I% mv % taiwan4-wandangong/.
+mv: rename .//srilanka-Alutgama13.jpg to srilanka/./srilanka-Alutgama13.jpg: No such file or directory
+mv: rename .//srilanka-matara208.jpg to srilanka/./srilanka-matara208.jpg: No such file or directory
+mv: rename .//srilanka-dikwella08.jpg to srilanka/./srilanka-dikwella08.jpg: No such file or directory
+mv: rename .//srilanka-negombo05.jpg to srilanka/./srilanka-negombo05.jpg: No such file or directory
+mv: rename .//srilanka-negombo11.jpg to srilanka/./srilanka-negombo11.jpg: No such file or directory
+find ./ -type f grep taiyokouen xargs -I% mv % taiyokouen/.
+mv: rename .//srilanka-roadside2.07.jpg to srilanka/./srilanka-roadside2.07.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.13.jpg to srilanka/./srilanka-roadside2.13.jpg: No such file or directory
+find ./ -type f grep takahasi xargs -I% mv % takahasi/.
+mv: rename .//srilanka-roadside2.05.jpg to srilanka/./srilanka-roadside2.05.jpg: No such file or directory
+find ./ -type f grep takanabe xargs -I% mv % takanabe/.
+mv: rename .//srilanka-roadside2.11.jpg to srilanka/./srilanka-roadside2.11.jpg: No such file or directory
+mv: rename .//srilanka-negombo07.jpg to srilanka/./srilanka-negombo07.jpg: No such file or directory
+mv: rename .//srilanka-negombo13.jpg to srilanka/./srilanka-negombo13.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama05.jpg to srilanka/./srilanka-Alutgama05.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama11.jpg to srilanka/./srilanka-Alutgama11.jpg: No such file or directory
+find ./ -type f grep takaradai xargs -I% mv % takaradai/.
+mv: rename .//srilanka-matara222.jpg to srilanka/./srilanka-matara222.jpg: No such file or directory
+find ./ -type f grep takatori xargs -I% mv % takatori/.
+mv: rename .//srilanka-Alutgama10.jpg to srilanka/./srilanka-Alutgama10.jpg: No such file or directory
+find ./ -type f grep takatourou xargs -I% mv % takatourou/.
+mv: rename .//srilanka-matara223.jpg to srilanka/./srilanka-matara223.jpg: No such file or directory
+mv: rename .//srilanka-Alutgama04.jpg to srilanka/./srilanka-Alutgama04.jpg: No such file or directory
+mv: rename .//srilanka-negombo12.jpg to srilanka/./srilanka-negombo12.jpg: No such file or directory
+mv: rename .//srilanka-negombo06.jpg to srilanka/./srilanka-negombo06.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.10.jpg to srilanka/./srilanka-roadside2.10.jpg: No such file or directory
+mv: rename .//srilanka-roadside2.04.jpg to srilanka/./srilanka-roadside2.04.jpg: No such file or directory
+find ./ -type f grep takatuka xargs -I% mv % takatuka/.
+mv: rename .//srilanka-kandy12.jpg to srilanka/./srilanka-kandy12.jpg: No such file or directory
+mv: rename .//srilanka-kandy06.jpg to srilanka/./srilanka-kandy06.jpg: No such file or directory
+mv: rename .//srilanka-dambulla12.jpg to srilanka/./srilanka-dambulla12.jpg: No such file or directory
+mv: rename .//srilanka-dambulla06.jpg to srilanka/./srilanka-dambulla06.jpg: No such file or directory
+mv: rename .//srilanka-dikwella214.jpg to srilanka/./srilanka-dikwella214.jpg: No such file or directory
+find ./ -type f grep taniyama xargs -I% mv % taniyama/.
+mv: rename .//srilanka-roadside05.jpg to srilanka/./srilanka-roadside05.jpg: No such file or directory
+mv: rename .//srilanka-roadside11.jpg to srilanka/./srilanka-roadside11.jpg: No such file or directory
+mv: rename .//srilanka-roadside10.jpg to srilanka/./srilanka-roadside10.jpg: No such file or directory
+mv: rename .//srilanka-dikwella201.jpg to srilanka/./srilanka-dikwella201.jpg: No such file or directory
+find ./ -type f grep tanokansa xargs -I% mv % tanokansa/.
+mv: rename .//srilanka-roadside04.jpg to srilanka/./srilanka-roadside04.jpg: No such file or directory
+mv: rename .//srilanka-dikwella215.jpg to srilanka/./srilanka-dikwella215.jpg: No such file or directory
+mv: rename .//srilanka-dambulla07.jpg to srilanka/./srilanka-dambulla07.jpg: No such file or directory
+mv: rename .//srilanka-dambulla13.jpg to srilanka/./srilanka-dambulla13.jpg: No such file or directory
+find ./ -type f grep tayan xargs -I% mv % tayan/.
+mv: rename .//srilanka-roadside2.html to srilanka/./srilanka-roadside2.html: No such file or directory
+mv: rename .//srilanka-kandy07.jpg to srilanka/./srilanka-kandy07.jpg: No such file or directory
+find ./ -type f grep thai-hell xargs -I% mv % thai-hell/.
+mv: rename .//srilanka-kandy13.jpg to srilanka/./srilanka-kandy13.jpg: No such file or directory
+find ./ -type f grep thai-myanmar-bowdytataung xargs -I% mv % thai-myanmar-bowdytataung/.
+mv: rename .//srilanka-kandy05.jpg to srilanka/./srilanka-kandy05.jpg: No such file or directory
+mv: rename .//srilanka-kandy11.jpg to srilanka/./srilanka-kandy11.jpg: No such file or directory
+mv: rename .//srilanka-dambulla11.jpg to srilanka/./srilanka-dambulla11.jpg: No such file or directory
+mv: rename .//srilanka-dikwella203.jpg to srilanka/./srilanka-dikwella203.jpg: No such file or directory
+mv: rename .//srilanka-roadside12.jpg to srilanka/./srilanka-roadside12.jpg: No such file or directory
+find ./ -type f grep thai-myanmar-kaungmudawpagoda xargs -I% mv % thai-myanmar-kaungmudawpagoda/.
+mv: rename .//srilanka-dikwella217.jpg to srilanka/./srilanka-dikwella217.jpg: No such file or directory
+mv: rename .//srilanka-roadside06.jpg to srilanka/./srilanka-roadside06.jpg: No such file or directory
+mv: rename .//srilanka-ambalangoda09.jpg to srilanka/./srilanka-ambalangoda09.jpg: No such file or directory
+mv: rename .//srilanka-ambalangoda08.jpg to srilanka/./srilanka-ambalangoda08.jpg: No such file or directory
+mv: rename .//srilanka-roadside07.jpg to srilanka/./srilanka-roadside07.jpg: No such file or directory
+find ./ -type f grep thai-myanmar-mahamunipagoda xargs -I% mv % thai-myanmar-mahamunipagoda/.
+mv: rename .//srilanka-dikwella216.jpg to srilanka/./srilanka-dikwella216.jpg: No such file or directory
+find ./ -type f grep thai-myanmar-shwezigonpagoda xargs -I% mv % thai-myanmar-shwezigonpagoda/.
+mv: rename .//srilanka-roadside13.jpg to srilanka/./srilanka-roadside13.jpg: No such file or directory
+mv: rename .//srilanka-dikwella202.jpg to srilanka/./srilanka-dikwella202.jpg: No such file or directory
+find ./ -type f grep thai-myanmar-thanboddhaypagoda xargs -I% mv % thai-myanmar-thanboddhaypagoda/.
+mv: rename .//srilanka-dambulla10.jpg to srilanka/./srilanka-dambulla10.jpg: No such file or directory
+mv: rename .//srilanka-dambulla04.jpg to srilanka/./srilanka-dambulla04.jpg: No such file or directory
+find ./ -type f grep thai-myanmar-watmuang xargs -I% mv % thai-myanmar-watmuang/.
+mv: rename .//srilanka-kandy04.jpg to srilanka/./srilanka-kandy04.jpg: No such file or directory
+mv: rename .//srilanka-kandy28.jpg to srilanka/./srilanka-kandy28.jpg: No such file or directory
+find ./ -type f grep thai-myanmar-watphalakloi xargs -I% mv % thai-myanmar-watphalakloi/.
+mv: rename .//srilanka-kandy14.jpg to srilanka/./srilanka-kandy14.jpg: No such file or directory
+mv: rename .//srilanka-dikwella206.jpg to srilanka/./srilanka-dikwella206.jpg: No such file or directory
+mv: rename .//srilanka-roadside17.jpg to srilanka/./srilanka-roadside17.jpg: No such file or directory
+mv: rename .//srilanka-dambulla28.jpg to srilanka/./srilanka-dambulla28.jpg: No such file or directory
+mv: rename .//srilanka-dikwella212.jpg to srilanka/./srilanka-dikwella212.jpg: No such file or directory
+find ./ -type f grep thai-myanmar-watphayap xargs -I% mv % thai-myanmar-watphayap/.
+mv: rename .//srilanka-roadside03.jpg to srilanka/./srilanka-roadside03.jpg: No such file or directory
+mv: rename .//srilanka-dambulla14.jpg to srilanka/./srilanka-dambulla14.jpg: No such file or directory
+mv: rename .//srilanka-dambulla15.jpg to srilanka/./srilanka-dambulla15.jpg: No such file or directory
+mv: rename .//srilanka-dambulla01.jpg to srilanka/./srilanka-dambulla01.jpg: No such file or directory
+mv: rename .//srilanka-roadside02.jpg to srilanka/./srilanka-roadside02.jpg: No such file or directory
+find ./ -type f grep thai-myanmar-watphutudom xargs -I% mv % thai-myanmar-watphutudom/.
+mv: rename .//srilanka-dikwella213.jpg to srilanka/./srilanka-dikwella213.jpg: No such file or directory
+mv: rename .//srilanka-dambulla29.jpg to srilanka/./srilanka-dambulla29.jpg: No such file or directory
+mv: rename .//srilanka-roadside16.jpg to srilanka/./srilanka-roadside16.jpg: No such file or directory
+mv: rename .//srilanka-dikwella207.jpg to srilanka/./srilanka-dikwella207.jpg: No such file or directory
+mv: rename .//srilanka-kandy15.jpg to srilanka/./srilanka-kandy15.jpg: No such file or directory
+mv: rename .//srilanka-kandy01.jpg to srilanka/./srilanka-kandy01.jpg: No such file or directory
+find ./ -type f grep thai-sanctuaryoftruth xargs -I% mv % thai-sanctuaryoftruth/.
+mv: rename .//srilanka-kandy29.jpg to srilanka/./srilanka-kandy29.jpg: No such file or directory
+mv: rename .//srilanka-kandy17.jpg to srilanka/./srilanka-kandy17.jpg: No such file or directory
+mv: rename .//srilanka-dikwella211.jpg to srilanka/./srilanka-dikwella211.jpg: No such file or directory
+mv: rename .//srilanka-dikwella205.jpg to srilanka/./srilanka-dikwella205.jpg: No such file or directory
+mv: rename .//srilanka-roadside14.jpg to srilanka/./srilanka-roadside14.jpg: No such file or directory
+mv: rename .//srilanka-dambulla17.jpg to srilanka/./srilanka-dambulla17.jpg: No such file or directory
+mv: rename .//srilanka-dambulla03.jpg to srilanka/./srilanka-dambulla03.jpg: No such file or directory
+find ./ -type f grep thai-watphairongwua xargs -I% mv % thai-watphairongwua/.
+mv: rename .//srilanka-negombo.html to srilanka/./srilanka-negombo.html: No such file or directory
+mv: rename .//srilanka-dambulla16.jpg to srilanka/./srilanka-dambulla16.jpg: No such file or directory
+find ./ -type f grep thai-watphalakloi xargs -I% mv % thai-watphalakloi/.
+mv: rename .//srilanka-roadside15.jpg to srilanka/./srilanka-roadside15.jpg: No such file or directory
+mv: rename .//srilanka-dikwella204.jpg to srilanka/./srilanka-dikwella204.jpg: No such file or directory
+mv: rename .//srilanka-roadside01.jpg to srilanka/./srilanka-roadside01.jpg: No such file or directory
+mv: rename .//srilanka-dikwella210.jpg to srilanka/./srilanka-dikwella210.jpg: No such file or directory
+find ./ -type f grep thai-watphrayai xargs -I% mv % thai-watphrayai/.
+mv: rename .//srilanka-kandy02.jpg to srilanka/./srilanka-kandy02.jpg: No such file or directory
+mv: rename .//srilanka-kandy16.jpg to srilanka/./srilanka-kandy16.jpg: No such file or directory
+find ./ -type f grep thai-watsaensuk xargs -I% mv % thai-watsaensuk/.
+find ./ -type f grep thai-watsapbon xargs -I% mv % thai-watsapbon/.
+find ./ -type f grep thai-watsopharam xargs -I% mv % thai-watsopharam/.
+find ./ -type f grep thai-watsrichum xargs -I% mv % thai-watsrichum/.
+find ./ -type f grep thai-watthawet xargs -I% mv % thai-watthawet/.
+find ./ -type f grep thai2-bangphliyaiklang xargs -I% mv % thai2-bangphliyaiklang/.
+find ./ -type f grep thai2-chaomaetuptim xargs -I% mv % thai2-chaomaetuptim/.
+find ./ -type f grep thai2-hintaahinyaai xargs -I% mv % thai2-hintaahinyaai/.
+find ./ -type f grep thai2-magicgarden xargs -I% mv % thai2-magicgarden/.
+find ./ -type f grep thai2-muangboran xargs -I% mv % thai2-muangboran/.
+find ./ -type f grep thai2-watchaiyo xargs -I% mv % thai2-watchaiyo/.
+find ./ -type f grep thai2-watchumluk xargs -I% mv % thai2-watchumluk/.
+find ./ -type f grep thai2-watkhuninthapramun xargs -I% mv % thai2-watkhuninthapramun/.
+find ./ -type f grep thai2-watklang xargs -I% mv % thai2-watklang/.
+find ./ -type f grep thai2-watkunaram xargs -I% mv % thai2-watkunaram/.
+find ./ -type f grep thai2-watmuang xargs -I% mv % thai2-watmuang/.
+find ./ -type f grep thai2-watpamok xargs -I% mv % thai2-watpamok/.
+find ./ -type f grep thai2-watphikunthong xargs -I% mv % thai2-watphikunthong/.
+find ./ -type f grep thai2-watphranonchaksi xargs -I% mv % thai2-watphranonchaksi/.
+find ./ -type f grep thai2-watphrayai xargs -I% mv % thai2-watphrayai/.
+find ./ -type f grep thai2-watphutudom xargs -I% mv % thai2-watphutudom/.
+find ./ -type f grep thai2-watplailaem xargs -I% mv % thai2-watplailaem/.
+find ./ -type f grep thai2-watsiroi xargs -I% mv % thai2-watsiroi/.
+find ./ -type f grep thai2-wattonson xargs -I% mv % thai2-wattonson/.
+find ./ -type f grep thai3-SanPhraPhum xargs -I% mv % thai3-SanPhraPhum/.
+find ./ -type f grep thai3-WatAnalayo xargs -I% mv % thai3-WatAnalayo/.
+find ./ -type f grep thai3-WatNoenPhanao xargs -I% mv % thai3-WatNoenPhanao/.
+find ./ -type f grep thai3-WatPhoChaiSri xargs -I% mv % thai3-WatPhoChaiSri/.
+find ./ -type f grep thai3-WatPhraDhammakaya xargs -I% mv % thai3-WatPhraDhammakaya/.
+find ./ -type f grep thai3-WatPhraKaew xargs -I% mv % thai3-WatPhraKaew/.
+find ./ -type f grep thai3-WatPrayoonWong xargs -I% mv % thai3-WatPrayoonWong/.
+find ./ -type f grep thai3-WatRongKhun xargs -I% mv % thai3-WatRongKhun/.
+find ./ -type f grep thai3-WatSiKhomKham xargs -I% mv % thai3-WatSiKhomKham/.
+find ./ -type f grep thai3-WatSiKhomKhamp xargs -I% mv % thai3-WatSiKhomKhamp/.
+find ./ -type f grep thai3-Watlamduan xargs -I% mv % thai3-Watlamduan/.
+find ./ -type f grep thai3-keianji xargs -I% mv % thai3-keianji/.
+find ./ -type f grep thai3-watkhaek xargs -I% mv % thai3-watkhaek/.
+find ./ -type f grep thai3-watphrathatnongsammun xargs -I% mv % thai3-watphrathatnongsammun/.
+find ./ -type f grep thai4-MonumentOfNaresuan xargs -I% mv % thai4-MonumentOfNaresuan/.
+find ./ -type f grep thai4-TheTreeOfTheDress xargs -I% mv % thai4-TheTreeOfTheDress/.
+find ./ -type f grep thai4-WatBangNomKho xargs -I% mv % thai4-WatBangNomKho/.
+find ./ -type f grep thai4-WatKai xargs -I% mv % thai4-WatKai/.
+find ./ -type f grep thai4-WatPhaiRongWua xargs -I% mv % thai4-WatPhaiRongWua/.
+find ./ -type f grep thai4-WatPhraDhammakaya xargs -I% mv % thai4-WatPhraDhammakaya/.
+mv: rename .//thai3-WatSiKhomKhamp01.jpg to thai3-WatSiKhomKham/./thai3-WatSiKhomKhamp01.jpg: No such file or directory
+find ./ -type f grep thai4-WatPhraLoi xargs -I% mv % thai4-WatPhraLoi/.
+find ./ -type f grep thai4-WatPhraThong xargs -I% mv % thai4-WatPhraThong/.
+find ./ -type f grep thai4-WatSamphran xargs -I% mv % thai4-WatSamphran/.
+find ./ -type f grep thai4-WatSiSunThon xargs -I% mv % thai4-WatSiSunThon/.
+find ./ -type f grep thai4-WatSuwanKuha xargs -I% mv % thai4-WatSuwanKuha/.
+find ./ -type f grep thai4-WatTaPan xargs -I% mv % thai4-WatTaPan/.
+find ./ -type f grep thai4-bigbuddha xargs -I% mv % thai4-bigbuddha/.
+find ./ -type f grep thai4-supanburicitypillar xargs -I% mv % thai4-supanburicitypillar/.
+find ./ -type f grep tichcaphatdai xargs -I% mv % tichcaphatdai/.
+find ./ -type f grep tigerbarmgarden xargs -I% mv % tigerbarmgarden/.
+find ./ -type f grep titibu xargs -I% mv % titibu/.
+find ./ -type f grep title xargs -I% mv % title/.
+find ./ -type f grep tochigi-asikaga xargs -I% mv % tochigi-asikaga/.
+find ./ -type f grep tochigi-aukana xargs -I% mv % tochigi-aukana/.
+find ./ -type f grep tochigi-fuji xargs -I% mv % tochigi-fuji/.
+find ./ -type f grep tochigi-kitaonsen xargs -I% mv % tochigi-kitaonsen/.
+find ./ -type f grep tochigi-kitaonsen0 xargs -I% mv % tochigi-kitaonsen0/.
+find ./ -type f grep tochigi-miroku xargs -I% mv % tochigi-miroku/.
+find ./ -type f grep tochigi-niouson xargs -I% mv % tochigi-niouson/.
+find ./ -type f grep tochigi-sassyouseki xargs -I% mv % tochigi-sassyouseki/.
+find ./ -type f grep tokura xargs -I% mv % tokura/.
+find ./ -type f grep tokushima-byoudouji xargs -I% mv % tokushima-byoudouji/.
+mv: rename .//tochigi-kitaonsen02.jpg to tochigi-kitaonsen/./tochigi-kitaonsen02.jpg: No such file or directory
+mv: rename .//tochigi-kitaonsen008.jpg to tochigi-kitaonsen/./tochigi-kitaonsen008.jpg: No such file or directory
+mv: rename .//tochigi-kitaonsen009.jpg to tochigi-kitaonsen/./tochigi-kitaonsen009.jpg: No such file or directory
+mv: rename .//tochigi-kitaonsen001.jpg to tochigi-kitaonsen/./tochigi-kitaonsen001.jpg: No such file or directory
+find ./ -type f grep tokushima-ohana xargs -I% mv % tokushima-ohana/.
+mv: rename .//tochigi-kitaonsen003.jpg to tochigi-kitaonsen/./tochigi-kitaonsen003.jpg: No such file or directory
+mv: rename .//tochigi-kitaonsen007.jpg to tochigi-kitaonsen/./tochigi-kitaonsen007.jpg: No such file or directory
+mv: rename .//tochigi-kitaonsen006.jpg to tochigi-kitaonsen/./tochigi-kitaonsen006.jpg: No such file or directory
+mv: rename .//tochigi-kitaonsen004.jpg to tochigi-kitaonsen/./tochigi-kitaonsen004.jpg: No such file or directory
+mv: rename .//tochigi-kitaonsen010.jpg to tochigi-kitaonsen/./tochigi-kitaonsen010.jpg: No such file or directory
+mv: rename .//tochigi-kitaonsen005.jpg to tochigi-kitaonsen/./tochigi-kitaonsen005.jpg: No such file or directory
+find ./ -type f grep tokushima-yakuoji xargs -I% mv % tokushima-yakuoji/.
+find ./ -type f grep tokusima-jizoji xargs -I% mv % tokusima-jizoji/.
+find ./ -type f grep tokusima-shokanji xargs -I% mv % tokusima-shokanji/.
+find ./ -type f grep tokyo-akagami xargs -I% mv % tokyo-akagami/.
+find ./ -type f grep tokyo-gangyoji xargs -I% mv % tokyo-gangyoji/.
+find ./ -type f grep tokyo-matsugaya xargs -I% mv % tokyo-matsugaya/.
+find ./ -type f grep tokyowankannon xargs -I% mv % tokyowankannon/.
+find ./ -type f grep tono-densyouen xargs -I% mv % tono-densyouen/.
+find ./ -type f grep tono-fukusenji xargs -I% mv % tono-fukusenji/.
+find ./ -type f grep tono-haka xargs -I% mv % tono-haka/.
+find ./ -type f grep tono-kappa xargs -I% mv % tono-kappa/.
+find ./ -type f grep tono-konseisama xargs -I% mv % tono-konseisama/.
+find ./ -type f grep tono-osirasama xargs -I% mv % tono-osirasama/.
+find ./ -type f grep tono-titigami xargs -I% mv % tono-titigami/.
+find ./ -type f grep tono-unetori xargs -I% mv % tono-unetori/.
+find ./ -type f grep tono-zasikiwarasi xargs -I% mv % tono-zasikiwarasi/.
+find ./ -type f grep tonoegaku-chosenji xargs -I% mv % tonoegaku-chosenji/.
+find ./ -type f grep tonoegaku-hakubutukan xargs -I% mv % tonoegaku-hakubutukan/.
+find ./ -type f grep tonoegaku-jyourakuji xargs -I% mv % tonoegaku-jyourakuji/.
+find ./ -type f grep tonoegaku-kiseiin xargs -I% mv % tonoegaku-kiseiin/.
+find ./ -type f grep tonoegaku-koganji xargs -I% mv % tonoegaku-koganji/.
+find ./ -type f grep tonoegaku-ryugenji xargs -I% mv % tonoegaku-ryugenji/.
+find ./ -type f grep tonoegaku-sairaiin xargs -I% mv % tonoegaku-sairaiin/.
+find ./ -type f grep tonoegaku-zenmyoji xargs -I% mv % tonoegaku-zenmyoji/.
+find ./ -type f grep tonoegaku-zuioin xargs -I% mv % tonoegaku-zuioin/.
+find ./ -type f grep tonomonogatari xargs -I% mv % tonomonogatari/.
+find ./ -type f grep toraja-bolu xargs -I% mv % toraja-bolu/.
+find ./ -type f grep toraja-bori xargs -I% mv % toraja-bori/.
+find ./ -type f grep toraja-buntudupasa xargs -I% mv % toraja-buntudupasa/.
+find ./ -type f grep toraja-lemo xargs -I% mv % toraja-lemo/.
+find ./ -type f grep toraja-londa xargs -I% mv % toraja-londa/.
+find ./ -type f grep toraja-marante xargs -I% mv % toraja-marante/.
+find ./ -type f grep toraja-omake xargs -I% mv % toraja-omake/.
+find ./ -type f grep toraja-pana xargs -I% mv % toraja-pana/.
+find ./ -type f grep toraja-suaya xargs -I% mv % toraja-suaya/.
+find ./ -type f grep toraja-tampagallo xargs -I% mv % toraja-tampagallo/.
+find ./ -type f grep toraja-tautaumaker xargs -I% mv % toraja-tautaumaker/.
+find ./ -type f grep torajya-funeral xargs -I% mv % torajya-funeral/.
+find ./ -type f grep torajya-ketekesu xargs -I% mv % torajya-ketekesu/.
+find ./ -type f grep toukouji xargs -I% mv % toukouji/.
+find ./ -type f grep toyama-daibenten xargs -I% mv % toyama-daibenten/.
+find ./ -type f grep toyama-hashikannon xargs -I% mv % toyama-hashikannon/.
+find ./ -type f grep toyama-kosugidaibutu xargs -I% mv % toyama-kosugidaibutu/.
+find ./ -type f grep toyama-mandara xargs -I% mv % toyama-mandara/.
+find ./ -type f grep toyama-oosawano xargs -I% mv % toyama-oosawano/.
+find ./ -type f grep toyama-sandaibutu xargs -I% mv % toyama-sandaibutu/.
+find ./ -type f grep toyama-syoukawadaibutu xargs -I% mv % toyama-syoukawadaibutu/.
+find ./ -type f grep toyama-takaokadaibutu xargs -I% mv % toyama-takaokadaibutu/.
+find ./ -type f grep toyama-tukurimon xargs -I% mv % toyama-tukurimon/.
+find ./ -type f grep toyama-tyoukeiji xargs -I% mv % toyama-tyoukeiji/.
+find ./ -type f grep traja-babygrave xargs -I% mv % traja-babygrave/.
+find ./ -type f grep tsugarukesyoujizou xargs -I% mv % tsugarukesyoujizou/.
+find ./ -type f grep tsugarukesyoujizou0 xargs -I% mv % tsugarukesyoujizou0/.
+find ./ -type f grep tsugarukesyoujizou1 xargs -I% mv % tsugarukesyoujizou1/.
+find ./ -type f grep tthai4-WatBangNomKho xargs -I% mv % tthai4-WatBangNomKho/.
+find ./ -type f grep tukiyono xargs -I% mv % tukiyono/.
+find ./ -type f grep tunabi xargs -I% mv % tunabi/.
+find ./ -type f grep tuongthanhgioc xargs -I% mv % tuongthanhgioc/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou079.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou079.jpg: No such file or directory
+find ./ -type f grep turunoiwaya xargs -I% mv % turunoiwaya/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou051.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou051.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou045.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou045.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou092.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou092.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou086.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou086.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou087.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou087.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou093.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou093.jpg: No such file or directory
+find ./ -type f grep tyuufuuji xargs -I% mv % tyuufuuji/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou044.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou044.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou050.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou050.jpg: No such file or directory
+find ./ -type f grep unryuuji xargs -I% mv % unryuuji/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou078.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou078.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou046.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou046.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou085.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou085.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou091.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou091.jpg: No such file or directory
+find ./ -type f grep urano xargs -I% mv % urano/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou090.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou090.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou084.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou084.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou053.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou053.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou047.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou047.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou043.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou043.jpg: No such file or directory
+find ./ -type f grep usigakubi xargs -I% mv % usigakubi/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou057.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou057.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou080.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou080.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou094.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou094.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou095.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou095.jpg: No such file or directory
+find ./ -type f grep usigamisya xargs -I% mv % usigamisya/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou081.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou081.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou056.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou056.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou042.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou042.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou054.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou054.jpg: No such file or directory
+find ./ -type f grep usiku xargs -I% mv % usiku/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou040.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou040.jpg: No such file or directory
+find ./ -type f grep usimado xargs -I% mv % usimado/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou068.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou068.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou097.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou097.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou083.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou083.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou082.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou082.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou096.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou096.jpg: No such file or directory
+find ./ -type f grep vinhnghiem xargs -I% mv % vinhnghiem/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou069.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou069.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou041.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou041.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou055.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou055.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou032.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou032.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou026.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou026.jpg: No such file or directory
+find ./ -type f grep vinhtrang xargs -I% mv % vinhtrang/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou027.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou027.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou033.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou033.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou019.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou019.jpg: No such file or directory
+find ./ -type f grep wakayama-kamahachiman xargs -I% mv % wakayama-kamahachiman/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou025.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou025.jpg: No such file or directory
+find ./ -type f grep wakayama-ohara xargs -I% mv % wakayama-ohara/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou030.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou030.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou024.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou024.jpg: No such file or directory
+find ./ -type f grep wakayama-sofu xargs -I% mv % wakayama-sofu/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou018.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou018.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou020.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou020.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou034.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou034.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou008.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou008.jpg: No such file or directory
+find ./ -type f grep watindrawiharn xargs -I% mv % watindrawiharn/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou009.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou009.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou035.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou035.jpg: No such file or directory
+find ./ -type f grep watkeak xargs -I% mv % watkeak/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou021.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou021.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou037.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou037.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou022.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou022.jpg: No such file or directory
+find ./ -type f grep watpakunam xargs -I% mv % watpakunam/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou036.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou036.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou013.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou013.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou007.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou007.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou006.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou006.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou012.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou012.jpg: No such file or directory
+find ./ -type f grep watxiengkhuan xargs -I% mv % watxiengkhuan/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou038.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou038.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou004.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou004.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou010.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou010.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou011.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou011.jpg: No such file or directory
+find ./ -type f grep wontaisintemple xargs -I% mv % wontaisintemple/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou005.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou005.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou039.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou039.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou001.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou001.jpg: No such file or directory
+find ./ -type f grep yabufudou xargs -I% mv % yabufudou/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou015.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou015.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou029.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou029.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou028.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou028.jpg: No such file or directory
+find ./ -type f grep yadanamanaungpagoda xargs -I% mv % yadanamanaungpagoda/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou014.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou014.jpg: No such file or directory
+find ./ -type f grep yaeyamabon xargs -I% mv % yaeyamabon/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou016.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou016.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou002.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou002.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou100.jpg to tsugarukesyoujizou/./tsugarukesyoujizou100.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou003.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou003.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou017.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou017.jpg: No such file or directory
+find ./ -type f grep yagorou1 xargs -I% mv % yagorou1/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou058.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou058.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou070.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou070.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou064.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou064.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou071.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou071.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou059.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou059.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou067.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou067.jpg: No such file or directory
+find ./ -type f grep yagorou2 xargs -I% mv % yagorou2/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou073.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou073.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou098.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou098.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou099.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou099.jpg: No such file or directory
+find ./ -type f grep yagorou3 xargs -I% mv % yagorou3/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou072.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou072.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou066.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou066.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou062.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou062.jpg: No such file or directory
+find ./ -type f grep yamada xargs -I% mv % yamada/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou089.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou089.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou077.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou077.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou063.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou063.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou075.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou075.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou061.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou061.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou049.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou049.jpg: No such file or directory
+mv: rename .//kesyoujizou/tsugarukesyoujizou048.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou048.jpg: No such file or directory
+find ./ -type f grep yamagata-haguro xargs -I% mv % yamagata-haguro/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou060.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou060.jpg: No such file or directory
+find ./ -type f grep yamagata-mukasari4 xargs -I% mv % yamagata-mukasari4/.
+mv: rename .//kesyoujizou/tsugarukesyoujizou074.jpg to tsugarukesyoujizou0/./tsugarukesyoujizou074.jpg: No such file or directory
+find ./ -type f grep yamagata-ootakifudou xargs -I% mv % yamagata-ootakifudou/.
+find ./ -type f grep yamagata-yamadera xargs -I% mv % yamagata-yamadera/.
+find ./ -type f grep yamagata-yamaderareien xargs -I% mv % yamagata-yamaderareien/.
+find ./ -type f grep yamagata-yamanokami xargs -I% mv % yamagata-yamanokami/.
+find ./ -type f grep yamagata-yudono xargs -I% mv % yamagata-yudono/.
+mv: rename .//yamagata-yamaderareien.html to yamagata-yamaderareien/./yamagata-yamaderareien.html: No such file or directory
+find ./ -type f grep yamaguchi-himidaibutu xargs -I% mv % yamaguchi-himidaibutu/.
+mv: rename .//yamagata-yamaderareien10.jpg to yamagata-yamaderareien/./yamagata-yamaderareien10.jpg: No such file or directory
+mv: rename .//yamagata-yamaderareien04.jpg to yamagata-yamaderareien/./yamagata-yamaderareien04.jpg: No such file or directory
+find ./ -type f grep yamaguchi-kawasaki xargs -I% mv % yamaguchi-kawasaki/.
+mv: rename .//yamagata-yamaderareien05.jpg to yamagata-yamaderareien/./yamagata-yamaderareien05.jpg: No such file or directory
+mv: rename .//yamagata-yamaderareien11.jpg to yamagata-yamaderareien/./yamagata-yamaderareien11.jpg: No such file or directory
+find ./ -type f grep yamaguchi-marakannon xargs -I% mv % yamaguchi-marakannon/.
+find ./ -type f grep yamanashi-funatu xargs -I% mv % yamanashi-funatu/.
+mv: rename .//yamagata-yamaderareien07.jpg to yamagata-yamadera/./yamagata-yamaderareien07.jpg: No such file or directory
+find ./ -type f grep yegyioopagoda xargs -I% mv % yegyioopagoda/.
+mv: rename .//yamagata-yamaderareien12.jpg to yamagata-yamadera/./yamagata-yamaderareien12.jpg: No such file or directory
+mv: rename .//yamagata-yamaderareien06.jpg to yamagata-yamadera/./yamagata-yamaderareien06.jpg: No such file or directory
+find ./ -type f grep yoakekannon xargs -I% mv % yoakekannon/.
+mv: rename .//yamagata-yamaderareien02.jpg to yamagata-yamadera/./yamagata-yamaderareien02.jpg: No such file or directory
+find ./ -type f grep yourou xargs -I% mv % yourou/.
+mv: rename .//yamagata-yamaderareien16.jpg to yamagata-yamadera/./yamagata-yamaderareien16.jpg: No such file or directory
+find ./ -type f grep zentokuin xargs -I% mv % zentokuin/.
+mv: rename .//yamagata-yamaderareien03.jpg to yamagata-yamadera/./yamagata-yamaderareien03.jpg: No such file or directory
+mv: rename .//yamagata-yamaderareien15.jpg to yamagata-yamadera/./yamagata-yamaderareien15.jpg: No such file or directory
+mv: rename .//yamagata-yamaderareien01.jpg to yamagata-yamadera/./yamagata-yamaderareien01.jpg: No such file or directory
+mv: rename .//yamagata-yamaderareien14.jpg to yamagata-yamadera/./yamagata-yamaderareien14.jpg: No such file or directory
+mv: rename .//yamagata-yamaderareien08.jpg to yamagata-yamadera/./yamagata-yamaderareien08.jpg: No such file or directory
+mv: rename .//yamagata-yamaderareien09.jpg to yamagata-yamadera/./yamagata-yamaderareien09.jpg: No such file or directory
+mv: rename .//yamagata-yamaderareienicon.jpg to yamagata-yamadera/./yamagata-yamaderareienicon.jpg: No such file or directory
+[mimizu@MacBook-Air] ~/Documents/chindera% ll
