@@ -6,4 +6,4 @@ Chindera Daidoujou is a website founded in 1997 that gathering photos of strange
 
 # License
 
-All HTML files are licensed MIT. ALL website contents are licensed CC BY 4.0,see [LICENSE](/LICENSE).
+All HTML files are licensed MIT, see [LICENSE](/LICENSE).
