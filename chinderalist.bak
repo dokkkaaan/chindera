@@ -3213,7 +3213,7 @@ COLOR="#FFFFFF">敦煌チックな塔、地下仏殿、お砂踏み、でも癌�
 <HR>
 </CENTER>
 <CENTER><br>
-<FONT COLOR="#FFFFFF"><A href="kakouzan/kakouzan.html"><IMG src="kakuouzan/kakuouzan-icon.jpg" width="57" height="57" X-SAS-UseImageWidth X-SAS-UseImageHeight align="left"></A></FONT><B><FONT SIZE="+1"
+<FONT COLOR="#FFFFFF"><A href="kakouzan/kakouzan.html"><IMG src="kakouzan/kakuouzan-icon.jpg" width="57" height="57" border="0" align="left"></A></FONT><B><FONT SIZE="+1"
 COLOR="#184B81"><A href="kakouzan/kakouzan.html">＃076-B　日泰寺再訪記/愛知県</A></FONT></B></CENTER>
 <CENTER><B><FONT
 COLOR="#FFFFFF">行って来ました。八十八カ所巡りの縁日に！</FONT></B><br>
@@ -3244,7 +3244,7 @@ COLOR="#FFFFFF">「昭和の奇僧」がつくった脳内物質全開パラダ�
 <CENTER>
 <HR>
 </CENTER>
-<CENTER><A href="daisyouin/daisyouin.html"><IMG src="miyajima/miyajima-icon.jpg" width="57" height="57" X-SAS-UseImageWidth X-SAS-UseImageHeight align="left"><B><FONT SIZE="+1"
+<CENTER><A href="daisyouin/daisyouin.html"><IMG src="daisyouin/miyajima-icon.jpg" width="57" height="57" border="0" align="left"><B><FONT SIZE="+1"
 COLOR="#184B81">＃120　大聖院/広島県</FONT></B></A><BR>
 <BR>
 <B><FONT
@@ -3763,7 +3763,7 @@ COLOR="#FFFFFF">竹名人の魂注入係数120パーセント！竹ずくしの�
 <HR>
 </CENTER>
 <CENTER>
-<H3><FONT COLOR="#FFFFFF"><A href="byakuidaikannon/byakuidaikannon.html"><IMG src="byakuikannon/byakuikannon-icon.gif" width="57" height="57" X-SAS-UseImageWidth X-SAS-UseImageHeight align="left">＃068　白衣大観音/群馬県</A></FONT></H3>
+<H3><FONT COLOR="#FFFFFF"><A href="byakuidaikannon/byakuidaikannon.html"><IMG src="byakuidaikannon/byakuikannon-icon.gif" width="57" height="57" border="0" align="left">＃068　白衣大観音/群馬県</A></FONT></H3>
 </CENTER>
 <CENTER>
 <H4><FONT
@@ -3806,7 +3806,7 @@ COLOR="#FFFFFF">東海随一の水子寺は珍物大百貨寺院</FONT></H4>
 </CENTER>
 <CENTER>
 <HR>
-<H3><FONT COLOR="#FFFFFF"><A href="simodajyou/simodajyou.html"><IMG src="simoda/simoda-icon.gif" width="57" height="57" X-SAS-UseImageWidth X-SAS-UseImageHeight align="left">＃063　下田城/静岡県</A></FONT></H3>
+<H3><FONT COLOR="#FFFFFF"><A href="simodajyou/simodajyou.html"><IMG src="simodajyou/simoda-icon.gif" width="57" height="57" border="0" align="left">＃063　下田城/静岡県</A></FONT></H3>
 </CENTER>
 <CENTER>
 <H4><FONT COLOR="#FFFFFF">隕石パワー全開のトンデモ城</FONT></H4>
@@ -3828,7 +3828,7 @@ COLOR="#FFFFFF">ペットショップの隣にペット供養、合理的すぎ<
 </CENTER>
 <CENTER>
 <HR>
-<H3><FONT COLOR="#FFFFFF"><A href="tazawakodaikannon/tazawakodaikannon.html"><IMG src="tazawako/tazawako-icon.gif" width="57" height="57" X-SAS-UseImageWidth X-SAS-UseImageHeight align="left">＃059　田沢湖大観音/秋田県</A></FONT></H3>
+<H3><FONT COLOR="#FFFFFF"><A href="tazawakodaikannon/tazawakodaikannon.html"><IMG src="tazawakodaikannon/tazawako-icon.gif" width="57" height="57" border="0" align="left">＃059　田沢湖大観音/秋田県</A></FONT></H3>
 </CENTER>
 <CENTER>
 <H4><FONT
@@ -3836,7 +3836,7 @@ COLOR="#FFFFFF">音と光のハイテク曼茶羅！凄い！</FONT></H4>
 </CENTER>
 <CENTER>
 <HR>
-<H3><FONT COLOR="#FFFFFF"><A href="kamaisidaikannon/kamaisidaikannon.html"><IMG src="kamaisi/kamaisi-icon.gif" width="57" height="57" X-SAS-UseImageWidth X-SAS-UseImageHeight align="left">＃058　釜石大観音/岩手県</A></FONT></H3>
+<H3><FONT COLOR="#FFFFFF"><A href="kamaisidaikannon/kamaisidaikannon.html"><IMG src="kamaisidaikannon/kamaisi-icon.gif" width="57" height="57" border="0" align="left">＃058　釜石大観音/岩手県</A></FONT></H3>
 </CENTER>
 <CENTER>
 <H4><FONT COLOR="#FFFFFF">老舗の大観音、奮闘す！</FONT></H4>
@@ -3851,7 +3851,7 @@ COLOR="#FFFFFF">無人の門前市とニュータウン寺院</FONT></H4>
 </CENTER>
 <CENTER>
 <HR>
-<H3><FONT COLOR="#FFFFFF"><A href="tetugakudou/tetugakudou.html"><IMG src="tetugakudou/tetugakudou-icon.gif" width="57" height="57" X-SAS-UseImageWidth X-SAS-UseImageHeight align="left">＃056　哲学堂公園/東京都</A></FONT></H3>
+<H3><FONT COLOR="#FFFFFF"><A href="tokyo-tetugakudo/tokyo-tetugakudo.html"><IMG src="tetugakudou/tetugakudou-icon.gif" width="57" height="57" X-SAS-UseImageWidth X-SAS-UseImageHeight align="left">＃056　哲学堂公園/東京都</A></FONT></H3>
 </CENTER>
 <CENTER>
 <H4><FONT COLOR="#FFFFFF">妖怪博士の哲学テーマパーク</FONT></H4>
@@ -3898,14 +3898,14 @@ COLOR="#FFFFFF">超ド級の金ピカ仏教テーマパーク</FONT></H4>
 </CENTER>
 <CENTER>
 <HR>
-<H3><FONT COLOR="#FFFFFF"><A href="etizendaibutu/etizendaibutu.html"><IMG src="etizen/etizen-icon.gif" width="57" height="57" X-SAS-UseImageWidth X-SAS-UseImageHeight align="left">＃050　越前大仏/福井県</A></FONT></H3>
+<H3><FONT COLOR="#FFFFFF"><A href="etizendaibutu/etizendaibutu.html"><IMG src="etizendaibutu/etizenicon.gif" width="57" height="57" border="0" align="left">＃050　越前大仏/福井県</A></FONT></H3>
 </CENTER>
 <CENTER>
 <H4><FONT COLOR="#FFFFFF">純観光大仏見参！</FONT></H4>
 </CENTER>
 <CENTER>
 <HR>
-<H3><FONT COLOR="#FFFFFF"><A href="bentendoukutu/bentendoukutu.html"><IMG src="benten/benten-icon.gif" width="57" height="57" X-SAS-UseImageWidth X-SAS-UseImageHeight align="left">＃049　弁天洞窟/東京都</A></FONT></H3>
+<H3><A href="bentendoukutu/bentendoukutu.html"><IMG src="bentendoukutu/benten-icon.gif" width="57" height="57" border="0" align="left"><FONT COLOR="#FFFFFF">＃049　弁天洞窟/東京都</FONT></A></H3>
 </CENTER>
 <CENTER>
 <H4><FONT
@@ -3913,7 +3913,7 @@ COLOR="#FFFFFF">暗闇の中、突如現れた想像を絶するモノとは</FO
 </CENTER>
 <CENTER>
 <HR>
-<H3><FONT COLOR="#FFFFFF"><A href="sazae2/sazae2.html"><IMG src="sazae2/sazae2-icon.gif" width="57" height="57" X-SAS-UseImageWidth X-SAS-UseImageHeight align="left">＃048　さざえ堂；その2</A></FONT></H3>
+<H3><FONT COLOR="#FFFFFF"><A href="sazae/sazae2.html"><IMG src="sazae/sazae2-icon.gif" width="57" height="57" border="0" align="left">＃048　さざえ堂；その2</A></FONT></H3>
 </CENTER>
 <CENTER>
 <H4><FONT
