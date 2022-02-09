@@ -1,3 +1,0 @@
-mv: rename .//myanmarlink.html to myanmarlink/./myanmarlink.html: No such file or directory
-mv: rename .//taiwandaibutu2Anime.gif to taiwandaibutu2/./taiwandaibutu2Anime.gif: No such file or directory
-mv: rename .//taiwandaibutu2.html to taiwandaibutu2/./taiwandaibutu2.html: No such file or directory
